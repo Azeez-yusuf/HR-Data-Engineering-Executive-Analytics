@@ -1,0 +1,312 @@
+﻿EmpID,Employee_Name,DOB,Sex,MaritalDesc,CitizenDesc,HispanicLatiNO,RaceDescript,State
+10026,Adinolfi Wilson  K,1983-07-10,M ,Single,US Citizen,NO,White,MA
+10084,Ait Sidi Karthikeyan   ,1975-05-05,M ,Married,US Citizen,NO,White,MA
+10196,Akinkuolie Sarah,1988-09-19,F,Married,US Citizen,NO,White,MA
+10088,AlagbeTrina,1988-09-27,F,Married,US Citizen,NO,White,MA
+10069,Anderson Carol ,1989-09-08,F,Divorced,US Citizen,NO,White,MA
+10002,Anderson Linda  ,1977-05-22,F,Single,US Citizen,NO,White,MA
+10194,Andreola Colby,1979-05-24,F,Single,US Citizen,NO,White,MA
+10062,Athwal Sam,1983-02-18,M ,Widowed,US Citizen,NO,White,MA
+10114,Bachiochi Linda,1970-02-11,F,Single,US Citizen,NO,Black or African American,MA
+10250,Bacong Alejandro ,1988-01-07,M ,Divorced,US Citizen,NO,White,MA
+10252,Baczenski Rachael  ,1974-01-12,F,Married,US Citizen,YES,Black or African American,MA
+10242,Barbara Thomas,1974-02-21,M ,Married,US Citizen,YES,Black or African American,MA
+10012,Barbossa Hector,1988-07-04,M ,Divorced,US Citizen,NO,Black or African American,TX
+10265,Barone Francesco  A,1983-07-20,M ,Single,US Citizen,NO,Two or more races,MA
+10066,Barton Nader,1977-07-15,M ,Divorced,US Citizen,NO,White,MA
+10061,Bates Norman,1981-10-18,M ,Single,US Citizen,NO,White,MA
+10023,Beak Kimberly  ,1966-04-17,F,Married,US Citizen,NO,White,MA
+10055,Beatrice Courtney ,1970-10-27,F,Single,Eligible NonCitizen,NO,White,MA
+10245,Becker Renee,1986-04-04,F,Single,US Citizen,YES,White,MA
+10277,Becker Scott,1979-04-06,M ,Single,US Citizen,NO,Asian,MA
+10046,Bernstein Sean,1970-12-22,M ,Single,US Citizen,YES,White,MA
+10226,Biden Lowan  M,1958-12-27,F,Divorced,US Citizen,NO,Asian,MA
+10003,Billis Helen,1989-09-01,F,Married,US Citizen,NO,White,MA
+10294,Blount Dianna,1990-09-21,F,Single,US Citizen,NO,White,MA
+10267,Bondwell Betsy,1967-01-16,F,Single,US Citizen,NO,White,MA
+10199,Booth Frank,1964-07-30,M ,Single,US Citizen,NO,Black or African American,CT
+10081,Boutwell Bonalyn,1987-04-04,F,Married,US Citizen,NO,Black or African American,MA
+10175,Bozzi Charles,1970-03-10,M ,Single,US Citizen,NO,Asian,MA
+10177,Brill Donna,1990-08-24,F,Married,US Citizen,NO,White,MA
+10238,Brown Mia,1987-11-24,F,Married,US Citizen,NO,Black or African American,MA
+10184,Buccheri Joseph  ,1983-07-28,M ,Single,US Citizen,NO,White,MA
+10203,Bugali Josephine ,1969-10-30,F,Separated,US Citizen,NO,Black or African American,MA
+10188,Bunbury Jessica,1964-06-01,F,Married,Eligible NonCitizen,NO,Black or African American,VA
+10107,Burke Joelle,1980-03-02,F,Single,US Citizen,NO,Black or African American,MA
+10181,Burkett Benjamin ,1977-08-19,M ,Married,US Citizen,NO,White,MA
+10150,Cady Max ,1966-11-22,M ,Single,US Citizen,NO,White,MA
+10001,Candie Calvin,1983-08-09,M ,Single,US Citizen,NO,White,MA
+10085,Carabbio Judith,1987-04-05,F,Single,US Citizen,NO,White,MA
+10115,Carey Michael  ,1983-02-02,M ,Single,US Citizen,NO,Black or African American,MA
+10082,Carr Claudia  N,1986-06-06,F,Single,US Citizen,NO,Black or African American,MA
+10040,Carter Michelle ,1963-05-15,F,Single,US Citizen,NO,White,VT
+10067,Chace Beatrice ,1951-01-02,F,Single,US Citizen,NO,White,MA
+10108,Champaigne Brian,1972-02-09,M ,Married,US Citizen,NO,White,MA
+10210,Chan Lin,1979-02-12,F,Single,US Citizen,NO,White,MA
+10154,Chang Donovan  E,1983-08-24,M ,Single,US Citizen,NO,White,MA
+10200,Chigurh Anton,1970-06-11,M ,Single,Eligible NonCitizen,NO,Black or African American,TX
+10240,Chivukula Enola,1983-08-27,F,Single,US Citizen,NO,White,MA
+10168,Cierpiszewski Caroline  ,1988-05-31,F,Single,Non-Citizen,NO,Black or African American,MA
+10220,Clayton Rick,1985-09-05,M ,Single,US Citizen,NO,White,MA
+10275,Cloninger Jennifer,1981-08-31,F,Married,US Citizen,NO,White,MA
+10269,Close Phil,1978-11-25,M ,Married,US Citizen,NO,White,MA
+10029,Clukey Elijian,1980-08-26,M ,Married,US Citizen,NO,White,MA
+10261,Cockel James,1977-09-08,M ,Single,US Citizen,NO,White,MA
+10292,Cole Spencer,1979-08-12,M ,Single,US Citizen,NO,Black or African American,MA
+10282,Corleone Michael,1975-12-17,M ,Divorced,US Citizen,NO,White,MA
+10019,Corleone Vito,1983-03-19,M ,Single,US Citizen,NO,Black or African American,MA
+10094,Cornett Lisa ,1977-03-31,F,Married,US Citizen,YES,White,MA
+10193,Costello Frank,1986-08-26,M ,Married,US Citizen,NO,White,MA
+10132,Crimmings   Jean,1987-04-10,F,Single,US Citizen,NO,White,MA
+10083,Cross Noah,1965-09-09,M ,Single,US Citizen,NO,White,CT
+10099,Daneault Lynn,1990-04-19,F,Single,US Citizen,NO,White,VT
+10212,Daniele Ann  ,1952-01-18,F,Married,US Citizen,NO,White,CT
+10056,Darson Jene'ya ,1978-11-05,F,Married,US Citizen,NO,White,MA
+10143,Davis Daniel,1979-09-14,M ,Single,Eligible NonCitizen,NO,Two or more races,MA
+10311,Dee Randy,1988-04-15,M ,Married,US Citizen,NO,White,MA
+10070,DeGweck  James,1977-10-31,M ,Married,US Citizen,NO,White,MA
+10155,Del Bosque Keyla,1979-07-05,F,Single,US Citizen,NO,Black or African American,MA
+10306,Delarge Alex,1975-11-02,M ,Single,US Citizen,NO,Two or more races,AL
+10100,Demita Carla,1951-02-25,F,Separated,US Citizen,NO,Black or African American,MA
+10310,Desimone Carl ,1967-04-19,M ,Married,US Citizen,NO,White,MA
+10197,DeVito Tommy,1983-09-04,M ,Single,US Citizen,NO,White,MA
+10276,Dickinson Geoff ,1982-11-15,M ,Single,US Citizen,NO,White,MA
+10304,Dietrich Jenna  ,1987-05-14,F,Single,US Citizen,YES,White,WA
+10284,DiNocco Lily ,1978-12-02,F,Married,US Citizen,NO,Black or African American,MA
+10207,Dobrin Denisa  S,1986-10-07,F,Single,US Citizen,YES,White,MA
+10133,Dolan Linda,1988-07-18,F,Married,US Citizen,NO,White,MA
+10028,Dougall Eric,1970-07-09,M ,Single,US Citizen,NO,Black or African American,MA
+10006,Driver Elle,1988-11-08,F,Single,US Citizen,NO,White,CA
+10105,Dunn Amy  ,1973-11-28,F,Single,US Citizen,NO,White,MA
+10211,Dunne Amy,1973-09-23,F,Married,US Citizen,NO,White,MA
+10064,Eaton Marianne,1991-09-05,F,Married,US Citizen,NO,White,MA
+10247,Engdahl Jean,1974-05-31,M ,Single,US Citizen,NO,White,MA
+10235,England Rex,1978-08-25,M ,Married,US Citizen,NO,White,MA
+10299,Erilus Angela,1989-08-25,F,Separated,US Citizen,NO,White,MA
+10280,Estremera Miguel,1983-09-02,M ,Single,US Citizen,NO,White,MA
+10296,Evensen April,1989-05-06,F,Single,US Citizen,NO,White,MA
+10290,Exantus Susan,1987-05-15,F,Married,US Citizen,NO,Black or African American,MA
+10263,Faller Megan ,1978-09-22,F,Married,US Citizen,NO,Black or African American,MA
+10136,Fancett Nicole,1987-09-27,F,Single,US Citizen,NO,Black or African American,MA
+10189,Ferguson Susan,1955-04-14,F,Married,US Citizen,NO,White,MA
+10308,Fernandes Nilson  ,1989-10-18,M ,Married,US Citizen,NO,White,MA
+10309,Fett Boba,1987-06-18,M ,Single,US Citizen,NO,White,MA
+10049,Fidelia  Libby,1981-03-16,F,Married,US Citizen,NO,White,MA
+10093,Fitzpatrick Michael  J,1981-10-01,M ,Single,US Citizen,YES,White,MA
+10163,Foreman Tanya,1983-11-08,F,Married,US Citizen,NO,White,MA
+10305,Forrest Alex,1975-07-07,M ,Married,US Citizen,NO,White,MA
+10015,Foss Jason,1980-07-05,M ,Single,US Citizen,NO,Black or African American,MA
+10080,Foster-Baker Amy,1979-04-16,F,Married,US Citizen,NO,White,MA
+10258,Fraval Maruk ,1963-08-28,M ,Single,US Citizen,NO,Black or African American,CT
+10273,Galia Lisa,1968-07-06,F,Single,US Citizen,NO,White,CT
+10111,Garcia Raul,1985-09-15,M ,Single,US Citizen,YES,White,MA
+10257,Gaul Barbara,1983-12-02,F,Single,US Citizen,YES,Black or African American,MA
+10159,Gentry Mildred,1990-10-01,F,Married,US Citizen,NO,Black or African American,MA
+10122,Gerke Melisa,1970-05-15,F,Divorced,US Citizen,NO,Black or African American,MA
+10142,Gill Whitney  ,1971-07-10,F,Widowed,US Citizen,NO,Black or African American,OH
+10283,Gilles Alex,1974-08-09,M ,Married,US Citizen,NO,Black or African American,MA
+10018,Girifalco Evelyn,1980-05-08,F,Single,US Citizen,YES,Two or more races,MA
+10255,Givens Myriam,1989-09-22,F,Single,US Citizen,NO,White,IN
+10246,Goble Taisha,1971-10-23,F,Single,US Citizen,NO,White,MA
+10228,Goeth Amon,1989-11-24,M ,Married,US Citizen,YES,White,MA
+10243,Gold Shenice  ,1992-06-18,F,Single,US Citizen,YES,White,MA
+10031,Gonzalez Cayo,1969-09-29,M ,Divorced,US Citizen,NO,Black or African American,MA
+10300,Gonzalez Juan,1964-10-12,M ,Married,US Citizen,NO,Black or African American,MA
+10101,Gonzalez Maria,1981-04-16,F,Separated,US Citizen,YES,White,MA
+10237,Good Susan,1986-05-25,F,Married,US Citizen,NO,White,MA
+10051,Gordon David,1979-05-21,M ,Married,US Citizen,NO,White,MA
+10218,Gosciminski Phylicia  ,1983-12-08,F,Separated,US Citizen,NO,American Indian or Alaska Native,MA
+10256,Goyal Roxana,1974-10-09,F,Married,US Citizen,NO,Asian,MA
+10098,Gray Elijiah  ,1981-07-11,M ,Divorced,US Citizen,NO,White,MA
+10059,Gross Paula,1983-05-21,F,Divorced,US Citizen,NO,White,MA
+10234,Gruber Hans,1989-06-30,M ,Married,US Citizen,NO,Black or African American,MA
+10109,Guilianno Mike,1969-02-09,M ,Single,US Citizen,NO,Two or more races,TN
+10125,Handschiegl Joanne,1977-03-23,F,Married,US Citizen,NO,White,MA
+10074,Hankard Earnest,1988-08-10,M ,Single,US Citizen,YES,White,MA
+10097,Harrington Christie ,1952-08-18,F,Single,US Citizen,NO,White,MA
+10007,Harrison Kara,1974-05-02,F,Married,US Citizen,NO,White,MA
+10129,Heitzman Anthony,1984-01-04,M ,Single,US Citizen,NO,White,MA
+10075,Hendrickson Trina,1972-08-27,F,Single,US Citizen,NO,White,MA
+10167,Hitchcock Alfred,1988-09-14,M ,Married,US Citizen,NO,American Indian or Alaska Native,NH
+10195,Homberger Adrienne  J,1984-02-16,F,Married,Non-Citizen,NO,White,MA
+10112,Horton Jayne,1984-02-21,F,Single,US Citizen,NO,White,MA
+10272,Houlihan Debra,1966-03-17,F,Married,US Citizen,NO,White,RI
+10182,Howard Estelle,1985-09-16,F,Married,US Citizen,NO,Black or African American,MA
+10248,Hudson Jane,1986-06-10,F,Single,US Citizen,NO,White,MA
+10201,Hunts Julissa,1984-03-11,F,Single,US Citizen,NO,White,MA
+10214,Hutter Rosalie,1992-05-07,F,Separated,US Citizen,NO,White,MA
+10160,Huynh Ming,1976-09-22,F,Divorced,US Citizen,NO,White,MA
+10289,Immediato Walter,1976-11-15,M ,Married,US Citizen,NO,Asian,MA
+10139,Ivey Rose ,1991-01-28,F,Single,US Citizen,NO,White,MA
+10227,Jackson Maryellen,1972-09-11,F,Single,US Citizen,NO,Black or African American,MA
+10236,Jacobi Hannah  ,1966-03-22,F,Divorced,US Citizen,NO,White,MA
+10009,Jeannite Tayana,1986-11-06,F,Divorced,US Citizen,NO,American Indian or Alaska Native,MA
+10060,Jhaveri Sneha  ,1964-04-13,F,Separated,US Citizen,NO,White,MA
+10034,Johnson George,1959-08-19,M ,Married,US Citizen,NO,White,MA
+10156,Johnson Noelle ,1986-11-07,F,Married,US Citizen,NO,Asian,MA
+10036,Johnston Yen,1969-09-08,F,Single,US Citizen,NO,White,MA
+10138,Jung Judy  ,1986-04-17,F,Married,US Citizen,NO,Black or African American,MA
+10244,Kampew Donysha,1989-11-11,F,Single,US Citizen,NO,White,PA
+10192,Keatts Kramer ,1976-01-19,M ,Single,US Citizen,NO,White,MA
+10231,Khemmich Bartholemew,1979-11-27,M ,Single,US Citizen,NO,White,CO
+10089,King Janet,1954-09-21,F,Married,US Citizen,YES,White,MA
+10166,Kinsella Kathleen  ,1973-12-08,F,Married,US Citizen,NO,White,MA
+10170,Kirill Alexandra  ,1970-10-08,F,Married,US Citizen,NO,White,MA
+10208,Knapp Bradley  J,1977-11-10,M ,Single,US Citizen,NO,Black or African American,MA
+10176,Kretschmer John,1980-02-02,M ,Married,US Citizen,NO,Asian,MA
+10165,Kreuger Freddy,1969-02-24,M ,Single,US Citizen,YES,Black or African American,NY
+10113,Lajiri  Jyoti,1986-04-23,M ,Married,US Citizen,NO,White,MA
+10092,Landa Hans,1972-07-01,M ,Married,US Citizen,NO,White,MA
+10106,Langford Lindsey,1979-07-25,F,Divorced,US Citizen,NO,Asian,MA
+10052,Langton Enrico,1986-12-09,M ,Married,US Citizen,NO,White,MA
+10038,LaRotonda William  ,1984-04-26,M ,Divorced,US Citizen,NO,Black or African American,MA
+10249,Latif Mohammed,1984-05-09,M ,Married,US Citizen,NO,White,MA
+10232,Le Binh,1987-06-14,F,Single,US Citizen,NO,Asian,MA
+10087,Leach Dallas,1979-01-17,F,Single,US Citizen,NO,Asian,MA
+10134,LeBlanc Brandon  R,1984-06-10,M ,Married,US Citizen,NO,White,MA
+10251,Lecter Hannibal,1982-09-02,M ,Married,US Citizen,NO,Asian,MA
+10103,Leruth Giovanni,1988-12-27,M ,Separated,US Citizen,NO,Black or African American,UT
+10017,Liebig Ketsia,1981-10-26,F,Married,US Citizen,NO,White,MA
+10186,Linares Marilyn ,1981-03-26,F,Married,US Citizen,NO,White,MA
+10137,Linden Mathew,1979-03-19,M ,Married,US Citizen,NO,White,MA
+10008,Lindsay Leonara ,1988-10-05,F,Single,US Citizen,YES,Black or African American,CT
+10096,Lundy Susan,1976-12-26,F,Widowed,US Citizen,NO,White,MA
+10035,Lunquist Lisa,1982-03-28,F,Single,US Citizen,NO,Black or African American,MA
+10057,Lydon Allison,1975-10-22,F,Married,US Citizen,NO,Black or African American,MA
+10004,Lynch Lindsay,1973-02-14,F,Single,US Citizen,YES,Black or African American,MA
+10191,MacLennan Samuel,1972-11-09,M ,Widowed,US Citizen,NO,White,MA
+10219,Mahoney Lauren  ,1986-07-07,F,Single,US Citizen,NO,White,MA
+10077,Manchester Robyn,1976-08-25,F,Married,US Citizen,NO,White,MA
+10073,Mancuso Karen,1986-12-10,F,Married,US Citizen,NO,Two or more races,MA
+10279,Mangal Debbie,1974-11-07,F,Married,US Citizen,NO,White,MA
+10110,Martin Sandra,1987-11-07,F,Single,US Citizen,NO,Asian,MA
+10053,Maurice Shana,1977-11-22,F,Married,US Citizen,NO,White,MA
+10076,Carthy B'rigit,1987-05-21,F,Single,US Citizen,NO,Black or African American,MA
+10145,Mckenna Sandy,1987-01-07,F,Married,US Citizen,NO,Black or African American,MA
+10202,McKinzie Jac,1984-07-01,M ,Married,US Citizen,NO,Two or more races,TX
+10128,Meads Elizabeth,1968-05-30,F,Single,US Citizen,NO,Black or African American,MA
+10068,Medeiros Jennifer,1976-09-22,F,Single,US Citizen,NO,White,MA
+10116,Miller Brannon,1981-08-10,M ,Single,US Citizen,YES,Hispanic,MA
+10298,Miller Ned,1985-06-29,M ,Single,US Citizen,NO,White,MA
+10213,Monkfish Erasumus,1992-08-17,M ,Married,US Citizen,NO,White,MA
+10288,Monroe Peter,1986-10-05,M ,Married,Eligible NonCitizen,YES,Black or African American,MA
+10025,Monterro Luisa,1970-04-24,F,Single,US Citizen,NO,Black or African American,MA
+10223,Moran Patrick,1976-12-03,M ,Single,US Citizen,NO,Black or African American,MA
+10151,Morway Tanya,1979-04-04,F,Married,US Citizen,NO,White,MA
+10254,Motlagh  Dawn,1984-07-07,F,Divorced,US Citizen,NO,White,MA
+10120,Moumanil Maliki ,1974-12-01,M ,Separated,US Citizen,NO,Black or African American,MA
+10216,Myers Michael,1980-04-18,M ,Single,US Citizen,NO,Asian,MA
+10079,Navathe Kurt,1970-04-25,M ,Single,US Citizen,NO,Asian,MA
+10215,Ndzi Colombui,1989-05-02,M ,Single,US Citizen,NO,Black or African American,MA
+10185,Ndzi Horia,1983-03-28,M ,Married,US Citizen,NO,White,MA
+10063,Newman Richard ,1977-04-08,M ,Married,US Citizen,NO,White,MA
+10037,Ngodup Shari ,1967-06-03,F,Separated,US Citizen,NO,Black or African American,MA
+10042,Nguyen Dheepa,1989-03-31,F,Single,US Citizen,NO,Two or more races,GA
+10206,Nguyen Lei-Ming,1984-07-07,F,Single,US Citizen,NO,White,MA
+10104,Nowlan Kristie,1985-11-23,F,Single,US Citizen,NO,White,MA
+10303,O'hare Lynn,1980-09-30,F,Single,US Citizen,NO,Two or more races,MA
+10078,Oliver Brooke ,1952-02-11,F,Married,US Citizen,NO,Asian,MA
+10121,Onque Jasmine,1990-05-11,F,Single,US Citizen,YES,White,FL
+10021,Osturnka Adeel,1976-12-11,M ,Married,US Citizen,NO,White,MA
+10281,Owad Clinton,1979-11-24,M ,Single,US Citizen,NO,Black or African American,MA
+10041,Ozark Travis,1982-05-19,M ,Single,US Citizen,NO,White,NC
+10148,Panjwani Nina,1979-05-01,F,Married,US Citizen,NO,White,MA
+10005,Patronick Lucas,1979-02-20,M ,Single,US Citizen,NO,Black or African American,MA
+10259,Pearson Randall,1984-09-05,M ,Married,US Citizen,NO,White,MA
+10286,Smith Martin,1988-03-17,M ,Single,US Citizen,NO,Black or African American,MA
+10297,Pelletier Ermine,1989-07-18,F,Married,US Citizen,NO,Asian,MA
+10171,Perry Shakira,1986-07-20,F,Single,US Citizen,NO,White,MA
+10032,Peters Lauren,1986-08-17,F,Married,US Citizen,NO,White,MA
+10130,Peterson Ebonee  ,1977-05-09,F,Married,US Citizen,NO,White,MA
+10217,Petingill Shana  ,1979-03-10,F,Married,Eligible NonCitizen,NO,Asian,MA
+10016,Petrowsky Thelma,1984-09-16,F,Married,US Citizen,NO,Black or African American,MA
+10050,Pham Hong,1988-03-06,M ,Married,US Citizen,NO,Asian,MA
+10164,Pitt Brad ,1981-11-23,M ,Single,US Citizen,NO,White,MA
+10124,Potts Xana,1988-08-29,F,Married,US Citizen,NO,Black or African American,KY
+10187,Power Morissa,1984-10-15,F,Divorced,Eligible NonCitizen,NO,Asian,MA
+10225,Punjabhi Louis  ,1961-06-19,M ,Single,US Citizen,NO,White,MA
+10262,Purinton Janine,1970-09-22,F,Divorced,US Citizen,NO,White,MA
+10131,Quinn Sean,1984-11-06,M ,Married,Eligible NonCitizen,NO,Black or African American,MA
+10239,Rachael Maggie,1980-05-12,F,Married,US Citizen,NO,Black or African American,MA
+10152,Rarrick Quinn,1984-12-31,M ,Divorced,US Citizen,NO,White,MA
+10140,Ren Kylo,1954-10-12,M ,Married,US Citizen,NO,White,ID
+10058,Rhoads Thomas,1982-07-22,M ,Divorced,US Citizen,YES,White,MA
+10011,Rivera Haley  ,1973-01-12,F,Married,US Citizen,NO,Asian,MA
+10230,Roberson May,1981-09-05,F,Divorced,Eligible NonCitizen,NO,Black or African American,MA
+10224,Robertson Peter,1972-07-03,M ,Married,US Citizen,NO,White,MA
+10047,Robinson Alain  ,1974-01-07,M ,Married,US Citizen,NO,Black or African American,MA
+10285,Robinson Cherly,1985-01-07,F,Married,US Citizen,NO,White,MA
+10020,Robinson Elias,1985-01-28,M ,Widowed,US Citizen,NO,White,MA
+10162,Roby Lori ,1981-10-11,F,Married,US Citizen,NO,White,MA
+10149,Roehrich Bianca,1973-05-27,F,Single,US Citizen,YES,White,MA
+10086,Roper Katie,1972-11-21,F,Single,US Citizen,NO,Black or African American,MA
+10054,Rose Ashley  ,1974-12-05,F,Separated,US Citizen,NO,White,MA
+10065,Rossetti Bruno,1987-03-18,M ,Single,US Citizen,NO,White,MA
+10198,RoupSimon,1973-04-05,M ,Single,US Citizen,NO,White,MA
+10222,Ruiz Ricardo,1964-01-04,M ,Divorced,US Citizen,NO,Black or African American,MA
+10126,Saada Adell,1986-07-24,F,Married,US Citizen,NO,White,MA
+10295,Saar-Beckles Melinda,1968-06-06,F,Single,US Citizen,NO,Black or African American,MA
+10260,Sadki Nore  ,1974-12-21,M ,Single,US Citizen,NO,White,MA
+10233,Sahoo Adil,1986-04-26,M ,Married,US Citizen,NO,White,MA
+10229,Salter Jason,1987-12-17,M ,Divorced,US Citizen,NO,Black or African American,MA
+10169,Sander Kamrin,1988-07-10,F,Married,US Citizen,NO,Black or African American,MA
+10071,Sewkumar Nori,1975-03-10,F,Single,US Citizen,NO,Asian,MA
+10179,Shepard Anita ,1981-04-14,F,Married,US Citizen,NO,White,MA
+10091,Shields Seffi,1985-08-24,F,Married,US Citizen,NO,White,MA
+10178,Simard Kramer,1970-02-08,M ,Married,US Citizen,YES,White,MA
+10039,Singh Nan ,1988-05-19,F,Single,US Citizen,NO,White,MA
+10095,Sloan Constance,1987-11-25,F,Single,US Citizen,NO,White,MA
+10027,Smith Joe,1963-10-30,M ,Single,US Citizen,NO,White,MA
+10291,Smith John,1984-08-16,M ,Divorced,US Citizen,NO,Black or African American,MA
+10153,Smith Leigh Ann,1987-06-14,F,Married,US Citizen,NO,Black or African American,MA
+10157,Smith Sade,1965-02-02,F,Single,US Citizen,NO,White,MA
+10119,Soto Julia ,1973-03-12,F,Married,US Citizen,NO,Black or African American,MA
+10180,Soze Keyser,1983-02-09,M ,Married,US Citizen,NO,Asian,MA
+10302,Sparks Taylor  ,1968-07-20,F,Married,US Citizen,NO,White,MA
+10090,Spirea Kelley,1975-09-30,F,Married,US Citizen,NO,White,MA
+10030,Squatrito Kristen,1973-03-26,F,Divorced,US Citizen,NO,White,MA
+10278,StanfordBarbara  M,1982-08-25,F,Divorced,US Citizen,NO,Two or more races,MA
+10307,Stansfield Norman,1974-05-09,M ,Married,US Citizen,NO,White,NV
+10147,Steans Tyrone  ,1986-09-01,M ,Single,US Citizen,NO,White,MA
+10266,Stoica Rick,1985-03-14,M ,Married,US Citizen,NO,Asian,MA
+10241,Strong Caitrin,1989-05-12,F,Married,US Citizen,NO,Black or African American,MT
+10158,Sullivan Kissy ,1978-03-28,F,Married,US Citizen,NO,Black or African American,MA
+10117,Sullivan Timothy,1982-10-07,M ,Married,US Citizen,YES,White,MA
+10209,Sutwell Barbara,1968-08-15,F,Single,Eligible NonCitizen,NO,Asian,MA
+10024,Szabo Andrew,1983-05-06,M ,Single,US Citizen,NO,White,MA
+10173,Tannen Biff,1987-10-24,M ,Married,US Citizen,NO,White,MA
+10221,Tavares Desiree  ,1975-04-03,F,Married,Non-Citizen,NO,Black or African American,MA
+10146,Tejeda Lenora ,1953-05-24,F,Married,US Citizen,NO,White,MA
+10161,Terry Sharlene ,1965-05-07,F,Single,US Citizen,NO,Black or African American,OR
+10141,Theamstern Sophia,1965-05-09,F,Single,US Citizen,NO,White,MA
+10268,Thibaud Kenneth,1975-09-16,M ,Widowed,US Citizen,NO,White,MA
+10123,Tippett Jeanette,1967-06-05,F,Divorced,US Citizen,NO,Black or African American,MA
+10013,Torrence Jack,1968-01-15,M ,Separated,US Citizen,NO,White,ND
+10287,Trang Mei,1983-05-16,F,Single,US Citizen,NO,White,MA
+10044,Tredinnick Neville ,1988-05-05,M ,Married,US Citizen,NO,White,MA
+10102,True Edward,1983-06-14,M ,Single,Non-Citizen,NO,Black or African American,MA
+10270,Trzeciak Cybil,1985-03-15,F,Single,US Citizen,NO,White,MA
+10045,Turpin Jumil,1969-03-31,M ,Married,Eligible NonCitizen,NO,White,MA
+10205,ValentinJackie,1991-05-23,F,Married,US Citizen,NO,Two or more races,AZ
+10014,Veera Abdellah ,1987-01-31,M ,Divorced,US Citizen,NO,White,MA
+10144,Vega Vincent,1968-10-10,M ,Divorced,US Citizen,NO,White,MA
+10253,Villanueva Noah,1989-07-11,M ,Single,US Citizen,NO,Asian,ME
+10118,Voldemort Lord,1986-08-07,M ,Married,US Citizen,NO,Black or African American,MA
+10022,Volk Colleen,1986-06-03,F,Married,US Citizen,NO,White,MA
+10183,Von Massenbach Anna,1985-04-06,F,Single,US Citizen,NO,White,MA
+10190,Walker Roger,1976-02-10,M ,Single,US Citizen,NO,Black or African American,MA
+10274,Wallace Courtney  E,1955-11-14,F,Married,US Citizen,NO,Black or African American,MA
+10293,Wallace Theresa,1980-08-02,F,Single,US Citizen,NO,White,MA
+10172,Wang Charlie,1981-07-08,M ,Single,US Citizen,NO,Asian,MA
+10127,Warfield Sarah,1978-05-02,F,Widowed,US Citizen,NO,Asian,MA
+10072,Whittier Scott,1987-05-24,M ,Single,US Citizen,YES,White,MA
+10048,Wilber Barry,1965-09-09,M ,Married,Eligible NonCitizen,NO,White,MA
+10204,Wilkes Annie,1983-07-30,F,Divorced,US Citizen,NO,White,MA
+10264,Williams Jacquelyn  ,1969-10-02,F,Single,US Citizen,YES,Black or African American,MA
+10033,Winthrop Jordan  ,1958-11-07,M ,Single,US Citizen,NO,White,MA
+10174,Wolk Hang  T,1985-04-20,F,Single,US Citizen,NO,White,MA
+10135,Woodson Jason,1985-05-11,M ,Single,US Citizen,NO,White,MA
+10301,Ybarra Catherine ,1982-05-04,F,Single,US Citizen,NO,Asian,MA
+10010,Zamora Jennifer,1979-08-30,F,Single,US Citizen,NO,White,MA
+10043,Zhou Julia,1979-02-24,F,Single,US Citizen,NO,White,MA
+10271,Zima Colleen,1978-08-17,F,Widowed,US Citizen,NO,Asian,MA

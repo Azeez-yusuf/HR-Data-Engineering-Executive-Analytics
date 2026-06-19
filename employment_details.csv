@@ -1,0 +1,312 @@
+﻿SerialNumber,EmpID,Salary,PositionID,Position,Department,ManagerName,ManagerID,DateofHire,DateofTermination,TermReason,EmploymentStatus,RecruitmentSource,PerformanceScore,EngagementSurvey,EmpSatisfaction,SpecialProjectsCount,LastPerformanceReview_Date,DaysLateLast30,Absences
+1,10026,62506,19,Production Technician I,Production       ,Michael Albert,22,2011-07-05,NULL,N-A-StillEmployed,Active,LinkedIn,Exceeds,4.6,5,0,2019-01-17,0,1
+2,10084,104437,27,Sr. DBA,IT-IS,Simon Roup,4,2015-03-30,2016-06-16,career change,Voluntarily Terminated,Indeed,Fully Meets,4.96,3,6,2016-02-24,0,17
+3,10196,64955,20,Production Technician II,Production       ,Kissy Sullivan,20,2011-07-05,2012-09-24,hours,Voluntarily Terminated,LinkedIn,Fully Meets,3.02,3,0,2012-05-15,0,3
+4,10088,64991,19,Production Technician I,Production       ,Elijiah Gray,16,2008-01-07,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.84,5,0,2019-01-03,0,15
+5,10069,50825,19,Production Technician I,Production       ,Webster Butler,39,2011-07-11,2016-09-06,return to school,Voluntarily Terminated,Google Search,Fully Meets,5,4,0,2016-02-01,0,2
+6,10002,57568,19,Production Technician I,Production       ,Amy Dunn,11,2012-01-09,NULL,N-A-StillEmployed,Active,LinkedIn,Exceeds,5,5,0,2019-01-07,0,15
+7,10194,95660,24,Software Engineer,Software Engineering,Alex Sweetwater,10,2014-11-10,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.04,3,4,2019-01-02,0,19
+8,10062,59365,19,Production Technician I,Production       ,Ketsia Liebig,19,2013-09-30,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,5,4,0,2019-02-25,0,19
+9,10114,47837,19,Production Technician I,Production       ,Brannon Miller,12,2009-07-06,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Fully Meets,4.46,3,0,2019-01-25,0,4
+10,10250,50178,14,IT Support,IT-IS,Peter Monroe,7,2015-01-05,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,5,5,6,2019-02-18,0,16
+11,10252,54670,19,Production Technician I,Production       ,David Stanley,14,2011-01-10,2017-01-12,Another position,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.2,4,0,2016-01-30,0,12
+12,10242,47211,19,Production Technician I,Production       ,Kissy Sullivan,20,2012-04-02,2016-09-19,unhappy,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.2,3,0,2016-05-06,0,15
+13,10012,92328,9,Data Analyst,IT-IS,Simon Roup,4,2014-11-10,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Exceeds,4.28,4,5,2019-02-25,0,9
+14,10265,58709,19,Production Technician I,Production       ,Kelley Spirea,18,2012-02-20,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,4.6,4,0,2019-02-14,0,7
+15,10066,52505,19,Production Technician I,Production       ,Michael Albert,22,2012-09-24,2017-04-06,Another position,Voluntarily Terminated,On-line Web application,Fully Meets,5,5,0,2017-03-02,0,1
+16,10061,57834,19,Production Technician I,Production       ,Kelley Spirea,18,2011-02-21,2017-08-04,attendance,Terminated for Cause,Google Search,Fully Meets,5,4,0,2017-04-05,0,20
+17,10023,70131,20,Production Technician II,Production       ,Kelley Spirea,18,2016-07-21,NULL,N-A-StillEmployed,Active,Employee Referral,Exceeds,4.4,3,0,2019-01-14,0,16
+18,10055,59026,19,Production Technician I,Production       ,Elijiah Gray,16,2011-04-04,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,5,5,0,2019-01-14,0,12
+19,10245,110000,8,Database Administrator,IT-IS,Simon Roup,4,2014-07-07,2015-09-12,performance,Terminated for Cause,Google Search,Fully Meets,4.5,4,5,2015-01-15,0,8
+20,10277,53250,19,Production Technician I,Production       ,Webster Butler,NULL,2013-07-08,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.2,4,0,2019-01-11,0,13
+21,10046,51044,19,Production Technician I,Production       ,Amy Dunn,11,2012-04-02,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,5,3,0,2019-01-14,0,13
+22,10226,64919,19,Production Technician I,Production       ,Ketsia Liebig,19,2013-08-19,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.2,3,0,2019-01-10,0,2
+23,10003,62910,19,Production Technician I,Production       ,Brannon Miller,12,2014-07-07,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,5,3,0,2019-02-27,0,19
+24,10294,66441,20,Production Technician II,Production       ,Michael Albert,22,2011-04-04,NULL,N-A-StillEmployed,Active,CareerBuilder,Needs Improvement,2,3,0,2019-02-27,2,3
+25,10267,57815,20,Production Technician II,Production       ,Elijiah Gray,16,2011-01-10,2014-04-04,career change,Voluntarily Terminated,Google Search,Fully Meets,4.8,5,0,2014-03-04,0,5
+26,10199,103613,30,Enterprise Architect,IT-IS,Simon Roup,4,2014-02-17,2016-02-19,Learned that he is a gangster,Terminated for Cause,LinkedIn,Fully Meets,3.5,5,7,2016-01-10,0,2
+27,10081,106367,26,Sr. Accountant,Admin Offices,Brandon R. LeBlanc,3,2015-02-16,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Fully Meets,5,4,3,2019-02-18,0,4
+28,10175,74312,18,Production Manager,Production       ,Janet King,2,2013-09-30,2014-08-07,retiring,Voluntarily Terminated,Indeed,Fully Meets,3.39,3,0,2014-02-20,0,14
+29,10177,53492,19,Production Technician I,Production       ,David Stanley,14,2012-04-02,2013-06-15,Another position,Voluntarily Terminated,Google Search,Fully Meets,3.35,4,0,2013-03-04,0,6
+30,10238,63000,1,Accountant I,Admin Offices,Brandon R. LeBlanc,1,2008-10-27,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Fully Meets,4.5,2,6,2019-01-15,0,14
+31,10184,65288,20,Production Technician II,Production       ,Webster Butler,NULL,2014-09-29,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,3.19,3,0,2019-02-01,0,9
+32,10203,64375,19,Production Technician I,Production       ,Kissy Sullivan,20,2013-11-11,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Fully Meets,3.5,5,0,2019-01-21,0,17
+33,10188,74326,3,Area Sales Manager,Sales,John Smith,17,2011-08-15,2014-08-02,Another position,Voluntarily Terminated,Google Search,Fully Meets,3.14,5,0,2013-02-10,1,19
+34,10107,63763,20,Production Technician II,Production       ,Amy Dunn,11,2012-03-05,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.51,4,0,2019-02-21,0,3
+35,10181,62162,20,Production Technician II,Production       ,Ketsia Liebig,19,2011-04-04,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.25,5,0,2019-01-14,0,15
+36,10150,77692,25,Software Engineering Manager,Software Engineering,Jennifer Zamora,5,2011-08-15,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,3.84,3,5,2019-01-21,0,4
+37,10001,72640,18,Production Manager,Production       ,Janet King,2,2016-01-28,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,5,3,0,2019-02-22,0,14
+38,10085,93396,24,Software Engineer,Software Engineering,Alex Sweetwater,10,2013-11-11,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.96,4,6,2019-01-30,0,3
+39,10115,52846,19,Production Technician I,Production       ,Kelley Spirea,18,2014-03-31,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.43,3,0,2019-02-01,0,14
+40,10082,100031,27,Sr. DBA,IT-IS,Simon Roup,4,2016-06-30,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,5,5,6,2019-02-18,0,7
+41,10040,71860,3,Area Sales Manager,Sales,John Smith,17,2014-08-18,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,5,5,0,2019-01-21,0,7
+42,10067,61656,19,Production Technician I,Production       ,Michael Albert,22,2014-09-29,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,5,4,0,2019-02-12,0,11
+43,10108,110929,5,BI Director,IT-IS,Jennifer Zamora,5,2016-09-06,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.5,5,7,2019-01-15,0,8
+44,10210,54237,19,Production Technician I,Production       ,Elijiah Gray,16,2014-05-12,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.3,4,0,2019-02-19,0,11
+45,10154,60380,19,Production Technician I,Production       ,Webster Butler,NULL,2013-07-08,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.8,5,0,2019-01-14,0,4
+46,10200,66808,3,Area Sales Manager,Sales,Lynn Daneault,21,2012-05-14,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,3,5,0,2019-01-19,0,17
+47,10240,64786,19,Production Technician I,Production       ,Amy Dunn,11,2011-06-27,2015-11-15,relocation out of area,Voluntarily Terminated,Indeed,Fully Meets,4.3,4,0,2015-03-10,0,3
+48,10168,64816,19,Production Technician I,Production       ,Ketsia Liebig,19,2011-10-03,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.58,5,0,2019-01-30,0,3
+49,10220,68678,14,IT Support,IT-IS,Eric Dougall,6,2012-09-05,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.7,3,6,2019-02-27,0,2
+50,10275,64066,20,Production Technician II,Production       ,Brannon Miller,12,2011-05-16,2013-01-07,unhappy,Voluntarily Terminated,Google Search,Fully Meets,4.2,5,0,2012-05-03,0,9
+51,10269,59369,20,Production Technician II,Production       ,David Stanley,14,2010-08-30,2011-09-26,career change,Voluntarily Terminated,Indeed,Fully Meets,4.2,4,0,2011-05-04,0,6
+52,10029,50373,19,Production Technician I,Production       ,Brannon Miller,12,2016-07-06,NULL,N-A-StillEmployed,Active,Employee Referral,Exceeds,4.1,4,0,2019-02-28,0,5
+53,10261,63108,19,Production Technician I,Production       ,David Stanley,14,2013-07-08,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.4,5,0,2019-01-14,0,3
+54,10292,59144,19,Production Technician I,Production       ,Kissy Sullivan,20,2011-07-11,2016-09-23,performance,Terminated for Cause,LinkedIn,Needs Improvement,2,3,0,2016-05-01,5,16
+55,10282,68051,18,Production Manager,Production       ,Janet King,2,2010-07-20,NULL,N-A-StillEmployed,Active,CareerBuilder,Needs Improvement,4.13,2,0,2019-01-14,3,3
+56,10019,170500,10,Director of Operations,Production       ,Janet King,2,2009-01-05,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,3.7,5,0,2019-02-04,0,15
+57,10094,63381,19,Production Technician I,Production       ,Kelley Spirea,18,2015-01-05,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.73,5,0,2019-02-14,0,6
+58,10193,83552,9,Data Analyst,IT-IS,Simon Roup,4,2015-03-30,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.04,3,6,2019-01-22,0,2
+59,10132,56149,19,Production Technician I,Production       ,Michael Albert,22,2016-07-06,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.12,5,0,2019-01-28,0,15
+60,10083,92329,28,Sr. Network Engineer,IT-IS,Peter Monroe,7,2014-11-10,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,5,3,4,2019-01-02,0,5
+61,10099,65729,21,Sales Manager,Sales,Debra Houlihan,15,2014-05-05,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.62,4,0,2019-01-24,0,8
+62,10212,85028,28,Sr. Network Engineer,IT-IS,Peter Monroe,7,2014-11-10,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.1,5,8,2019-02-12,0,19
+63,10056,57583,19,Production Technician I,Production       ,Elijiah Gray,16,2012-07-02,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,5,3,0,2019-02-25,0,1
+64,10143,56294,20,Production Technician II,Production       ,Kissy Sullivan,20,2011-11-07,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.96,4,0,2019-02-27,0,6
+65,10311,56991,19,Production Technician I,Production       ,Brannon Miller,12,2018-07-09,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.3,4,3,2019-01-31,2,2
+66,10070,55722,19,Production Technician I,Production       ,Webster Butler,39,2011-05-16,2016-06-08,unhappy,Voluntarily Terminated,Indeed,Fully Meets,5,4,0,2016-04-02,0,14
+67,10155,101199,24,Software Engineer,Software Engineering,Alex Sweetwater,10,2012-01-09,NULL,N-A-StillEmployed,Active,CareerBuilder,Fully Meets,3.79,5,5,2019-01-25,0,8
+68,10306,61568,3,Area Sales Manager,Sales,John Smith,17,2014-09-29,NULL,N-A-StillEmployed,Active,Indeed,PIP,1.93,3,0,2019-01-30,6,5
+69,10100,58275,20,Production Technician II,Production       ,Kelley Spirea,18,2011-04-04,2015-11-04,more money,Voluntarily Terminated,Google Search,Fully Meets,4.62,5,0,2015-05-06,0,1
+70,10310,53189,19,Production Technician I,Production       ,Amy Dunn,11,2014-07-07,NULL,N-A-StillEmployed,Active,Indeed,PIP,1.12,2,0,2019-01-31,4,9
+71,10197,96820,4,BI Developer,IT-IS,Brian Champaigne,13,2017-02-15,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.01,5,7,2019-01-23,0,15
+72,10276,51259,19,Production Technician I,Production       ,Ketsia Liebig,19,2014-05-12,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.3,4,0,2019-02-19,0,1
+73,10304,59231,3,Area Sales Manager,Sales,John Smith,17,2012-02-20,NULL,N-A-StillEmployed,Active,Website,PIP,2.3,1,0,2019-01-29,2,17
+74,10284,61584,19,Production Technician I,Production       ,Brannon Miller,12,2013-01-07,NULL,N-A-StillEmployed,Active,Indeed,Needs Improvement,3.88,4,0,2019-01-18,0,6
+75,10207,46335,19,Production Technician I,Production       ,David Stanley,14,2012-04-02,NULL,N-A-StillEmployed,Active,CareerBuilder,Fully Meets,3.4,5,0,2019-02-19,0,15
+76,10133,70621,14,IT Support,IT-IS,Peter Monroe,7,2015-01-05,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.11,4,6,2019-02-25,0,16
+77,10028,138888,13,IT Manager - Support,IT-IS,Jennifer Zamora,5,2014-01-05,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,4.3,5,5,2019-01-04,0,4
+78,10006,74241,3,Area Sales Manager,Sales,Lynn Daneault,21,2011-01-10,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,4.77,5,0,2019-01-27,0,14
+79,10105,75188,18,Production Manager,Production       ,Janet King,2,2014-09-18,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,4.52,4,0,2019-01-15,0,4
+80,10211,62514,19,Production Technician I,Production       ,Ketsia Liebig,19,2010-04-26,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,2.9,3,0,2019-01-21,0,6
+81,10064,60070,19,Production Technician I,Production       ,Kissy Sullivan,20,2011-04-04,2017-06-06,military,Voluntarily Terminated,Google Search,Fully Meets,5,3,0,2017-04-09,0,7
+82,10247,48888,19,Production Technician I,Production       ,Kelley Spirea,18,2014-11-10,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.7,5,0,2019-02-13,0,8
+83,10235,54285,19,Production Technician I,Production       ,Kelley Spirea,18,2014-03-31,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.2,3,0,2019-01-11,0,3
+84,10299,56847,20,Production Technician II,Production       ,Michael Albert,22,2014-07-07,NULL,N-A-StillEmployed,Active,Indeed,PIP,3,1,0,2019-02-25,2,5
+85,10280,60340,19,Production Technician I,Production       ,Michael Albert,22,2012-04-02,2018-09-27,attendance,Terminated for Cause,Google Search,Needs Improvement,5,4,0,2018-04-12,5,16
+86,10296,59124,19,Production Technician I,Production       ,Elijiah Gray,16,2014-02-17,2018-02-25,"no-call, no-show",Terminated for Cause,Google Search,Needs Improvement,2.3,3,0,2017-01-15,5,19
+87,10290,99280,24,Software Engineer,Software Engineering,Alex Sweetwater,10,2011-05-02,2013-06-05,attendance,Terminated for Cause,Indeed,Needs Improvement,2.1,5,4,2012-08-10,4,19
+88,10263,71776,20,Production Technician II,Production       ,Elijiah Gray,16,2014-07-07,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.4,5,0,2019-02-22,0,17
+89,10136,65902,20,Production Technician II,Production       ,Webster Butler,NULL,2014-02-17,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4,4,0,2019-01-07,0,7
+90,10189,57748,19,Production Technician I,Production       ,Webster Butler,39,2011-11-07,2016-05-17,military,Voluntarily Terminated,Google Search,Fully Meets,3.13,3,0,2016-02-04,0,16
+91,10308,64057,19,Production Technician I,Production       ,Amy Dunn,11,2015-05-11,NULL,N-A-StillEmployed,Active,Indeed,PIP,1.56,5,0,2019-01-03,6,15
+92,10309,53366,15,Network Engineer,IT-IS,Peter Monroe,7,2015-03-30,NULL,N-A-StillEmployed,Active,LinkedIn,PIP,1.2,3,6,2019-02-04,3,2
+93,10049,58530,19,Production Technician I,Production       ,Brannon Miller,12,2012-01-09,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,5,5,0,2019-01-29,0,19
+94,10093,72609,20,Production Technician II,Production       ,Amy Dunn,11,2011-05-16,2013-06-24,hours,Voluntarily Terminated,Google Search,Fully Meets,4.76,5,0,2013-04-05,0,20
+95,10163,55965,20,Production Technician II,Production       ,Ketsia Liebig,19,2011-04-04,2013-01-09,career change,Voluntarily Terminated,Google Search,Fully Meets,3.66,3,0,2012-01-07,0,6
+96,10305,70187,3,Area Sales Manager,Sales,Lynn Daneault,21,2014-09-29,2018-08-19,Fatal attraction,Terminated for Cause,Employee Referral,PIP,2,5,0,2019-01-28,4,7
+97,10015,178000,12,IT Director,IT-IS,Jennifer Zamora,5,2011-04-15,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,5,5,5,2019-01-07,0,15
+98,10080,99351,26,Sr. Accountant,Admin Offices,Board of Directors,9,2009-01-05,NULL,N-A-StillEmployed,Active,Other,Fully Meets,5,3,2,2019-02-08,0,3
+99,10258,67251,3,Area Sales Manager,Sales,Lynn Daneault,21,2011-09-06,NULL,N-A-StillEmployed,Active,CareerBuilder,Fully Meets,4.3,3,0,2019-01-27,2,7
+100,10273,65707,14,IT Support,IT-IS,Eric Dougall,6,2010-05-01,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.7,4,5,2019-02-01,0,1
+101,10111,52249,19,Production Technician I,Production       ,David Stanley,14,2015-03-30,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.5,3,0,2019-02-18,0,5
+102,10257,53171,19,Production Technician I,Production       ,Kelley Spirea,18,2011-05-16,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.2,4,0,2019-02-26,0,12
+103,10159,51337,19,Production Technician I,Production       ,Michael Albert,22,2015-03-30,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.73,3,0,2019-01-16,0,19
+104,10122,51505,19,Production Technician I,Production       ,Elijiah Gray,16,2011-11-07,2016-11-15,hours,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.24,4,0,2016-04-29,0,2
+105,10142,59370,3,Area Sales Manager,Sales,John Smith,17,2014-07-07,2015-09-05,attendance,Terminated for Cause,CareerBuilder,Fully Meets,3.97,4,0,2014-01-15,0,7
+106,10283,54933,19,Production Technician I,Production       ,Webster Butler,39,2012-04-02,2015-06-25,military,Voluntarily Terminated,Diversity Job Fair,Needs Improvement,3.97,4,0,2015-01-20,3,15
+107,10018,57815,19,Production Technician I,Production       ,Amy Dunn,11,2014-09-29,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,3.9,4,0,2019-02-07,0,3
+108,10255,61555,3,Area Sales Manager,Sales,Lynn Daneault,21,2015-02-16,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.5,5,0,2019-01-25,0,20
+109,10246,114800,8,Database Administrator,IT-IS,Simon Roup,4,2015-02-16,2015-03-15,"no-call, no-show",Terminated for Cause,Indeed,Fully Meets,4.6,4,4,2015-01-20,0,10
+110,10228,74679,14,IT Support,IT-IS,Peter Monroe,7,2015-03-30,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.3,5,7,2019-01-10,0,20
+111,10243,53018,19,Production Technician I,Production       ,Ketsia Liebig,19,2013-11-11,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.3,5,0,2019-02-18,0,7
+112,10031,59892,19,Production Technician I,Production       ,Brannon Miller,12,2011-07-11,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Exceeds,4.5,4,0,2019-02-18,0,1
+113,10300,68898,20,Production Technician II,Production       ,Brannon Miller,12,2010-04-26,2011-05-30,career change,Voluntarily Terminated,Diversity Job Fair,PIP,3,3,0,2011-03-06,3,10
+114,10101,61242,14,IT Support,IT-IS,Peter Monroe,7,2015-01-05,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.61,4,5,2019-01-28,0,11
+115,10237,66825,20,Production Technician II,Production       ,David Stanley,14,2014-05-12,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.6,3,0,2019-02-07,0,20
+116,10051,48285,19,Production Technician I,Production       ,David Stanley,14,2012-07-02,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,5,3,0,2019-01-14,0,2
+117,10218,66149,20,Production Technician II,Production       ,Kissy Sullivan,20,2013-09-30,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,4.4,5,0,2019-02-21,0,1
+118,10256,49256,19,Production Technician I,Production       ,Kissy Sullivan,20,2013-08-19,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.1,5,0,2019-02-15,0,3
+119,10098,62957,18,Production Manager,Production       ,Janet King,2,2015-06-02,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.63,3,0,2019-01-04,0,2
+120,10059,63813,19,Production Technician I,Production       ,Kelley Spirea,18,2011-02-21,2014-01-11,more money,Voluntarily Terminated,CareerBuilder,Fully Meets,5,5,0,2013-06-03,0,17
+121,10234,99020,4,BI Developer,IT-IS,Brian Champaigne,13,2017-04-20,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.2,5,5,2019-01-28,0,8
+122,10109,71707,3,Area Sales Manager,Sales,John Smith,17,2012-03-07,2014-10-31,relocation out of area,Voluntarily Terminated,LinkedIn,Fully Meets,4.5,5,0,2013-02-01,0,20
+123,10125,54828,19,Production Technician I,Production       ,Michael Albert,22,2011-11-28,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,4.2,4,0,2019-02-22,0,13
+124,10074,64246,20,Production Technician II,Production       ,Kelley Spirea,18,2013-11-11,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,5,3,0,2019-01-08,0,20
+125,10097,52177,19,Production Technician I,Production       ,Webster Butler,39,2012-01-09,2015-12-15,retiring,Voluntarily Terminated,CareerBuilder,Fully Meets,4.64,4,0,2015-05-02,0,8
+126,10007,62065,19,Production Technician I,Production       ,Amy Dunn,11,2014-05-12,NULL,N-A-StillEmployed,Active,CareerBuilder,Exceeds,4.76,4,0,2019-02-15,0,5
+127,10129,46998,19,Production Technician I,Production       ,Ketsia Liebig,19,2012-08-13,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,4.17,4,0,2019-02-11,0,1
+128,10075,68099,20,Production Technician II,Production       ,Kelley Spirea,18,2011-01-10,2013-06-18,hours,Voluntarily Terminated,CareerBuilder,Fully Meets,5,3,0,2013-01-30,0,15
+129,10167,70545,3,Area Sales Manager,Sales,John Smith,17,2014-08-18,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.6,5,0,2019-01-30,0,9
+130,10195,63478,20,Production Technician II,Production       ,Michael Albert,30,2011-08-15,2012-04-07,relocation out of area,Voluntarily Terminated,Indeed,Fully Meets,3.03,5,0,2012-03-05,0,16
+131,10112,97999,8,Database Administrator,IT-IS,Simon Roup,4,2015-03-30,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.48,5,6,2019-01-03,0,4
+132,10272,180000,11,Director of Sales,Sales,Janet King,2,2014-05-05,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.5,4,0,2019-01-21,0,19
+133,10182,49920,2,Administrative Assistant,Admin Offices,Brandon R. LeBlanc,1,2015-02-16,2015-04-15,"no-call, no-show",Terminated for Cause,Indeed,Fully Meets,3.24,3,4,2015-04-15,0,6
+134,10248,55425,19,Production Technician I,Production       ,Ketsia Liebig,19,2012-02-20,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.8,4,0,2019-01-07,0,4
+135,10201,69340,20,Production Technician II,Production       ,Elijiah Gray,16,2016-06-06,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3,5,0,2019-01-18,0,4
+136,10214,64995,20,Production Technician II,Production       ,Webster Butler,NULL,2015-06-05,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.5,3,0,2019-02-14,0,6
+137,10160,68182,20,Production Technician II,Production       ,Amy Dunn,11,2011-02-21,2013-04-01,unhappy,Voluntarily Terminated,Google Search,Fully Meets,3.72,3,0,2013-02-01,0,18
+138,10289,83082,18,Production Manager,Production       ,Janet King,2,2011-02-21,2012-09-24,unhappy,Voluntarily Terminated,Indeed,Needs Improvement,2.34,2,0,2012-04-12,3,4
+139,10139,51908,19,Production Technician I,Production       ,Brannon Miller,12,2013-08-19,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.99,3,0,2019-01-14,0,14
+140,10227,61242,19,Production Technician I,Production       ,David Stanley,14,2012-11-05,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.1,3,0,2019-01-17,0,7
+141,10236,45069,19,Production Technician I,Production       ,Kissy Sullivan,20,2013-09-30,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.3,5,0,2019-02-22,0,7
+142,10009,60724,20,Production Technician II,Production       ,Ketsia Liebig,19,2011-07-05,NULL,N-A-StillEmployed,Active,LinkedIn,Exceeds,4.6,4,0,2019-02-25,0,11
+143,10060,60436,19,Production Technician I,Production       ,Kelley Spirea,18,2014-01-06,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,5,5,0,2019-01-21,0,9
+144,10034,46837,19,Production Technician I,Production       ,Michael Albert,22,2011-11-07,2018-04-29,more money,Voluntarily Terminated,CareerBuilder,Exceeds,4.7,4,0,2018-02-14,0,9
+145,10156,105700,8,Database Administrator,IT-IS,Simon Roup,4,2015-01-05,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.75,3,5,2019-02-11,0,2
+146,10036,63322,20,Production Technician II,Production       ,Brannon Miller,12,2014-07-07,NULL,N-A-StillEmployed,Active,LinkedIn,Exceeds,4.3,3,0,2019-01-11,0,1
+147,10138,61154,19,Production Technician I,Production       ,Elijiah Gray,16,2011-01-10,2016-04-01,unhappy,Voluntarily Terminated,CareerBuilder,Fully Meets,4,4,0,2016-02-03,0,4
+148,10244,68999,21,Sales Manager,Sales,Debra Houlihan,15,2011-11-07,2014-04-24,maternity leave - did not return,Voluntarily Terminated,Google Search,Fully Meets,4.5,5,0,2013-03-30,0,2
+149,10192,50482,19,Production Technician I,Production       ,Michael Albert,22,2013-09-30,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.07,4,0,2019-01-23,0,10
+150,10231,65310,3,Area Sales Manager,Sales,Lynn Daneault,21,2013-08-19,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.3,5,0,2019-01-22,0,13
+151,10089,250000,16,President & CEO,Executive Office,Board of Directors,9,2012-07-02,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.83,3,0,2019-01-17,0,10
+152,10166,54005,19,Production Technician I,Production       ,Webster Butler,39,2011-09-26,2015-06-04,more money,Voluntarily Terminated,Google Search,Fully Meets,3.6,5,0,2015-03-01,0,16
+153,10170,45433,19,Production Technician I,Production       ,Amy Dunn,11,2011-09-26,2014-01-09,more money,Voluntarily Terminated,Google Search,Fully Meets,3.49,4,0,2013-01-30,0,6
+154,10208,46654,19,Production Technician I,Production       ,Ketsia Liebig,19,2014-02-17,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.1,3,0,2019-02-06,0,3
+155,10176,63973,19,Production Technician I,Production       ,Brannon Miller,12,2011-01-10,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.38,3,0,2019-01-21,0,17
+156,10165,71339,3,Area Sales Manager,Sales,John Smith,17,2011-03-07,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Fully Meets,3.65,5,0,2019-01-17,0,20
+157,10113,93206,28,Sr. Network Engineer,IT-IS,Peter Monroe,7,2014-11-10,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.46,5,6,2019-01-07,0,7
+158,10092,82758,18,Production Manager,Production       ,Janet King,2,2011-01-10,2015-12-12,attendance,Terminated for Cause,Employee Referral,Fully Meets,4.78,4,0,2015-02-15,0,9
+159,10106,66074,20,Production Technician II,Production       ,David Stanley,14,2013-01-07,2014-03-31,Another position,Voluntarily Terminated,Indeed,Fully Meets,4.52,3,0,2014-02-20,0,20
+160,10052,46120,19,Production Technician I,Production       ,David Stanley,14,2012-07-09,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,5,5,0,2019-02-04,0,13
+161,10038,64520,1,Accountant I,Admin Offices,Brandon R. LeBlanc,1,2014-01-06,NULL,N-A-StillEmployed,Active,Website,Fully Meets,5,4,4,2019-01-17,0,3
+162,10249,61962,20,Production Technician II,Production       ,Kissy Sullivan,20,2012-04-02,2013-04-15,more money,Voluntarily Terminated,Google Search,Fully Meets,4.9,3,0,2013-02-20,0,20
+163,10232,81584,22,Senior BI Developer,IT-IS,Brian Champaigne,13,2016-10-02,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.1,5,7,2019-01-08,0,2
+164,10087,63676,19,Production Technician I,Production       ,Kissy Sullivan,20,2011-09-26,2018-08-19,return to school,Voluntarily Terminated,CareerBuilder,Fully Meets,4.88,3,0,2017-07-02,0,17
+165,10134,93046,23,Shared Services Manager,Admin Offices,Janet King,2,2016-01-05,NULL,N-A-StillEmployed,Active,CareerBuilder,Fully Meets,4.1,4,0,2019-01-28,0,20
+166,10251,64738,19,Production Technician I,Production       ,Elijiah Gray,16,2012-05-14,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,4.1,3,0,2019-02-22,0,10
+167,10103,70468,3,Area Sales Manager,Sales,John Smith,17,2012-04-30,NULL,N-A-StillEmployed,Active,Website,Fully Meets,4.53,3,0,2019-01-29,0,16
+168,10017,77915,18,Production Manager,Production       ,Janet King,2,2013-09-30,NULL,N-A-StillEmployed,Active,Website,Exceeds,4.1,3,0,2019-01-21,0,11
+169,10186,52624,19,Production Technician I,Production       ,Michael Albert,22,2011-07-05,2018-09-26,unhappy,Voluntarily Terminated,Indeed,Fully Meets,3.18,4,0,2018-03-02,0,16
+170,10137,63450,20,Production Technician II,Production       ,Kelley Spirea,18,2013-07-08,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4,3,0,2019-02-18,0,7
+171,10008,51777,14,IT Support,IT-IS,Eric Dougall,6,2011-01-21,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Exceeds,4.64,4,5,2019-01-25,0,14
+172,10096,67237,20,Production Technician II,Production       ,Michael Albert,22,2013-07-08,2016-09-15,more money,Voluntarily Terminated,LinkedIn,Fully Meets,4.65,4,0,2016-06-10,0,15
+173,10035,73330,20,Production Technician II,Production       ,Elijiah Gray,16,2013-08-19,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,4.2,4,0,2019-02-12,0,19
+174,10057,52057,19,Production Technician I,Production       ,Elijiah Gray,16,2015-02-16,NULL,N-A-StillEmployed,Active,Website,Fully Meets,5,3,0,2019-01-23,0,6
+175,10004,47434,19,Production Technician I,Production       ,Webster Butler,39,2011-11-07,2015-11-14,Another position,Voluntarily Terminated,Diversity Job Fair,Exceeds,5,4,0,2015-02-02,0,17
+176,10191,52788,19,Production Technician I,Production       ,Amy Dunn,11,2012-09-24,2017-09-26,hours,Voluntarily Terminated,Indeed,Fully Meets,3.08,4,0,2017-04-01,0,18
+177,10219,45395,19,Production Technician I,Production       ,Ketsia Liebig,19,2014-01-06,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.6,4,0,2019-02-26,0,14
+178,10077,62385,20,Production Technician II,Production       ,Webster Butler,NULL,2016-05-11,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,5,3,0,2019-01-21,0,4
+179,10073,68407,20,Production Technician II,Production       ,Amy Dunn,11,2011-07-05,2012-08-19,Another position,Voluntarily Terminated,LinkedIn,Fully Meets,5,4,0,2012-07-02,0,16
+180,10279,61349,19,Production Technician I,Production       ,Brannon Miller,12,2013-11-11,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.1,3,0,2019-01-22,0,11
+181,10110,105688,24,Software Engineer,Software Engineering,Alex Sweetwater,10,2013-11-11,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,4.5,5,4,2019-01-14,0,14
+182,10053,54132,19,Production Technician I,Production       ,David Stanley,14,2011-05-31,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,5,4,0,2019-01-10,0,8
+183,10076,55315,20,Production Technician II,Production       ,Ketsia Liebig,19,2015-03-30,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,5,5,0,2019-02-07,0,16
+184,10145,62810,19,Production Technician I,Production       ,Kissy Sullivan,20,2013-01-07,NULL,N-A-StillEmployed,Active,CareerBuilder,Fully Meets,3.93,3,0,2019-01-30,0,20
+185,10202,63291,3,Area Sales Manager,Sales,Lynn Daneault,21,2016-07-06,NULL,N-A-StillEmployed,Active,Website,Fully Meets,3.4,4,0,2019-01-29,0,7
+186,10128,62659,19,Production Technician I,Production       ,Kelley Spirea,18,2012-04-02,2016-11-11,Another position,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.18,4,0,2016-02-05,0,17
+187,10068,55688,19,Production Technician I,Production       ,Michael Albert,22,2015-03-30,NULL,N-A-StillEmployed,Active,CareerBuilder,Fully Meets,5,4,0,2019-01-21,0,10
+188,10116,83667,18,Production Manager,Production       ,Janet King,2,2012-08-16,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.37,3,0,2019-01-14,0,2
+189,10298,55800,20,Production Technician II,Production       ,Brannon Miller,12,2011-08-15,2014-09-04,unhappy,Voluntarily Terminated,LinkedIn,PIP,3,2,0,2013-01-14,6,6
+190,10213,58207,20,Production Technician II,Production       ,David Stanley,14,2011-11-07,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.7,3,0,2019-01-08,0,14
+191,10288,157000,13,IT Manager - Infra,IT-IS,Jennifer Zamora,5,2012-02-15,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Needs Improvement,2.39,3,6,2019-02-22,4,13
+192,10025,72460,20,Production Technician II,Production       ,Kissy Sullivan,20,2013-05-13,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,4.7,3,0,2019-01-14,0,1
+193,10223,72106,20,Production Technician II,Production       ,Kelley Spirea,18,2012-01-09,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Fully Meets,4.1,4,0,2019-01-31,0,12
+194,10151,52599,15,Network Engineer,IT-IS,Peter Monroe,7,2015-02-16,NULL,N-A-StillEmployed,Active,CareerBuilder,Fully Meets,3.81,3,6,2019-02-11,0,6
+195,10254,63430,19,Production Technician I,Production       ,Elijiah Gray,16,2013-04-01,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.4,4,0,2019-01-17,0,18
+196,10120,74417,20,Production Technician II,Production       ,Michael Albert,22,2013-05-13,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.29,5,0,2019-01-28,0,11
+197,10216,57575,19,Production Technician I,Production       ,Kissy Sullivan,20,2013-07-08,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.1,4,0,2019-01-22,0,13
+198,10079,87921,22,Senior BI Developer,IT-IS,Brian Champaigne,13,2017-02-10,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,5,3,6,2019-02-25,0,17
+199,10215,50470,19,Production Technician I,Production       ,Webster Butler,39,2011-09-26,2014-04-04,return to school,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.3,3,0,2013-03-02,0,19
+200,10185,46664,19,Production Technician I,Production       ,Amy Dunn,11,2013-04-01,2016-05-25,more money,Voluntarily Terminated,Employee Referral,Fully Meets,3.18,3,0,2016-03-06,0,10
+201,10063,48495,19,Production Technician I,Production       ,Ketsia Liebig,19,2014-05-12,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,5,5,0,2019-02-18,0,11
+202,10037,52984,19,Production Technician I,Production       ,Brannon Miller,12,2013-04-01,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Exceeds,4,3,0,2019-02-13,0,12
+203,10042,63695,3,Area Sales Manager,Sales,Lynn Daneault,21,2013-07-08,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,5,5,0,2019-01-25,0,2
+204,10206,62061,19,Production Technician I,Production       ,David Stanley,14,2013-07-08,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.6,5,0,2019-01-02,0,4
+205,10104,66738,20,Production Technician II,Production       ,Elijiah Gray,16,2014-11-10,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.53,5,0,2019-01-16,0,5
+206,10303,52674,19,Production Technician I,Production       ,Kissy Sullivan,20,2014-03-31,2018-05-01,performance,Terminated for Cause,LinkedIn,PIP,2.33,2,0,2018-03-09,6,3
+207,10078,71966,20,Production Technician II,Production       ,Webster Butler,39,2012-05-14,2013-08-19,unhappy,Voluntarily Terminated,LinkedIn,Fully Meets,5,3,0,2013-07-02,0,17
+208,10121,63051,3,Area Sales Manager,Sales,Lynn Daneault,21,2013-09-30,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.28,3,0,2019-01-25,0,1
+209,10021,47414,19,Production Technician I,Production       ,Kelley Spirea,18,2013-09-30,NULL,N-A-StillEmployed,Active,LinkedIn,Exceeds,5,3,0,2019-02-07,0,13
+210,10281,53060,19,Production Technician I,Production       ,Michael Albert,22,2014-02-17,NULL,N-A-StillEmployed,Active,LinkedIn,Needs Improvement,4.25,3,0,2019-02-04,4,6
+211,10041,68829,3,Area Sales Manager,Sales,John Smith,17,2015-01-05,NULL,N-A-StillEmployed,Active,Website,Fully Meets,5,5,0,2019-01-14,0,18
+212,10148,63515,19,Production Technician I,Production       ,Elijiah Gray,16,2011-02-07,2014-01-12,Another position,Voluntarily Terminated,Google Search,Fully Meets,3.89,4,0,2013-03-04,0,7
+213,10005,108987,24,Software Engineer,Software Engineering,Alex Sweetwater,10,2011-11-07,2015-09-07,Another position,Voluntarily Terminated,Diversity Job Fair,Exceeds,5,5,3,2015-08-16,0,13
+214,10259,93093,9,Data Analyst,IT-IS,Simon Roup,4,2014-12-01,2016-05-01,performance,Voluntarily Terminated,Employee Referral,Fully Meets,4.7,4,5,2016-01-16,0,19
+215,10286,53564,19,Production Technician I,Production       ,Webster Butler,39,2011-01-10,2017-12-28,career change,Voluntarily Terminated,Google Search,Needs Improvement,3.54,5,0,2017-04-06,4,15
+216,10297,60270,20,Production Technician II,Production       ,Amy Dunn,11,2011-07-05,2015-09-15,unhappy,Voluntarily Terminated,CareerBuilder,Needs Improvement,2.4,5,0,2015-02-06,5,2
+217,10171,45998,19,Production Technician I,Production       ,Amy Dunn,11,2011-05-16,2015-10-25,medical issues,Voluntarily Terminated,LinkedIn,Fully Meets,3.45,4,0,2014-05-13,0,5
+218,10032,57954,20,Production Technician II,Production       ,Ketsia Liebig,19,2011-05-16,2013-02-04,more money,Voluntarily Terminated,Indeed,Exceeds,4.2,5,0,2013-01-10,0,12
+219,10130,74669,18,Production Manager,Production       ,Janet King,2,2010-10-25,2016-05-18,Another position,Voluntarily Terminated,Indeed,Fully Meets,4.16,5,0,2015-03-05,0,6
+220,10217,74226,20,Production Technician II,Production       ,Brannon Miller,12,2012-04-02,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.3,3,0,2019-01-14,0,14
+221,10016,93554,9,Data Analyst,IT-IS,Simon Roup,4,2014-11-10,NULL,N-A-StillEmployed,Active,Employee Referral,Exceeds,4.6,5,7,2019-01-04,0,16
+222,10050,64724,19,Production Technician I,Production       ,Brannon Miller,12,2011-07-05,2012-11-30,more money,Voluntarily Terminated,Google Search,Fully Meets,5,3,0,2012-02-20,0,13
+223,10164,47001,19,Production Technician I,Production       ,David Stanley,14,2007-11-05,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,3.66,3,0,2019-02-25,0,15
+224,10124,61844,3,Area Sales Manager,Sales,Lynn Daneault,21,2012-01-09,NULL,N-A-StillEmployed,Active,Website,Fully Meets,4.2,5,0,2019-02-01,0,9
+225,10187,46799,19,Production Technician I,Production       ,Kissy Sullivan,20,2011-05-16,2018-06-04,Another position,Voluntarily Terminated,Google Search,Fully Meets,3.17,4,0,2018-04-02,0,14
+226,10225,59472,19,Production Technician I,Production       ,Kelley Spirea,18,2014-01-06,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.8,3,0,2019-01-07,0,14
+227,10262,46430,19,Production Technician I,Production       ,Kissy Sullivan,20,2012-09-24,2013-06-18,unhappy,Voluntarily Terminated,Indeed,Fully Meets,4.5,5,0,2013-04-02,0,16
+228,10131,83363,23,Software Engineer,Software Engineering,Janet King,2,2011-02-21,2015-08-15,career change,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.15,4,0,2014-04-19,0,4
+229,10239,95920,4,BI Developer,IT-IS,Brian Champaigne,13,2016-10-02,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.4,4,6,2019-02-06,0,10
+230,10152,61729,19,Production Technician I,Production       ,Michael Albert,22,2011-09-26,2018-04-07,more money,Voluntarily Terminated,Indeed,Fully Meets,3.8,5,0,2018-02-04,0,19
+231,10140,61809,3,Area Sales Manager,Sales,John Smith,17,2014-05-12,NULL,N-A-StillEmployed,Active,CareerBuilder,Fully Meets,3.98,3,0,2019-01-28,0,4
+232,10058,45115,19,Production Technician I,Production       ,Elijiah Gray,16,2011-05-16,2016-01-15,retiring,Voluntarily Terminated,LinkedIn,Fully Meets,5,4,0,2015-03-30,0,11
+233,10011,46738,19,Production Technician I,Production       ,Webster Butler,NULL,2011-11-28,NULL,N-A-StillEmployed,Active,Google Search,Exceeds,4.36,5,0,2019-02-11,0,16
+234,10230,64971,20,Production Technician II,Production       ,David Stanley,14,2011-09-26,2011-10-22,return to school,Voluntarily Terminated,Google Search,Fully Meets,4.5,4,0,2011-10-22,0,10
+235,10224,55578,20,Production Technician II,Production       ,Kissy Sullivan,20,2011-07-05,2012-02-08,Another position,Voluntarily Terminated,Indeed,Fully Meets,4.2,5,0,2012-01-06,0,13
+236,10047,50428,19,Production Technician I,Production       ,Amy Dunn,11,2011-01-10,2016-01-26,attendance,Voluntarily Terminated,Indeed,Fully Meets,5,3,0,2015-01-10,0,11
+237,10285,61422,19,Production Technician I,Production       ,Ketsia Liebig,19,2011-01-10,2016-05-17,attendance,Terminated for Cause,Indeed,Needs Improvement,3.6,3,0,2016-04-05,4,16
+238,10020,63353,19,Production Technician I,Production       ,Brannon Miller,12,2013-07-08,NULL,N-A-StillEmployed,Active,Employee Referral,Exceeds,3.6,5,0,2019-02-11,0,4
+239,10162,89883,9,Data Analyst,IT-IS,Simon Roup,4,2015-02-16,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,3.69,5,6,2019-02-14,0,15
+240,10149,120000,29,Principal Data Architect,IT-IS,Simon Roup,4,2015-01-05,2018-11-10,Another position,Voluntarily Terminated,LinkedIn,Fully Meets,3.88,3,7,2018-02-13,0,12
+241,10086,150290,7,Data Architect,IT-IS,Brian Champaigne,13,2017-01-07,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.94,3,5,2019-02-06,0,17
+242,10054,60627,19,Production Technician I,Production       ,David Stanley,14,2014-01-06,NULL,N-A-StillEmployed,Active,Website,Fully Meets,5,4,0,2019-01-31,0,8
+243,10065,53180,19,Production Technician I,Production       ,Kissy Sullivan,20,2011-04-04,2018-08-13,Another position,Voluntarily Terminated,Google Search,Fully Meets,5,5,0,2018-07-02,0,4
+244,10198,140920,13,IT Manager - DB,IT-IS,Jennifer Zamora,5,2013-01-20,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.6,5,7,2019-02-18,0,13
+245,10222,148999,13,IT Manager - DB,IT-IS,Jennifer Zamora,5,2012-01-09,2015-11-04,hours,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.3,4,6,2015-01-04,0,8
+246,10126,86214,24,Software Engineer,Software Engineering,Alex Sweetwater,10,2012-11-05,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.2,3,6,2019-02-13,0,2
+247,10295,47750,19,Production Technician I,Production       ,Kelley Spirea,18,2016-07-04,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Needs Improvement,2.6,4,0,2019-02-18,5,4
+248,10260,46428,19,Production Technician I,Production       ,Michael Albert,22,2009-01-05,2018-07-30,relocation out of area,Voluntarily Terminated,Google Search,Fully Meets,4.6,5,0,2018-02-05,0,7
+249,10233,57975,20,Production Technician II,Production       ,Kelley Spirea,18,2010-08-30,NULL,N-A-StillEmployed,Active,CareerBuilder,Fully Meets,4.1,3,0,2019-01-10,0,13
+250,10229,88527,9,Data Analyst ,IT-IS,Simon Roup,4,2015-01-05,2015-10-31,hours,Voluntarily Terminated,LinkedIn,Fully Meets,4.2,3,5,2015-04-20,0,2
+251,10169,56147,19,Production Technician I,Production       ,Elijiah Gray,16,2014-09-29,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.51,3,0,2019-02-18,0,2
+252,10071,50923,19,Production Technician I,Production       ,Webster Butler,NULL,2013-09-30,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,5,5,0,2019-02-06,0,14
+253,10179,50750,15,Network Engineer,IT-IS,Peter Monroe,7,2014-09-30,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.31,3,6,2019-01-07,0,7
+254,10091,52087,19,Production Technician I,Production       ,Amy Dunn,11,2013-08-19,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.81,4,0,2019-02-15,0,15
+255,10178,87826,9,Data Analyst,IT-IS,Simon Roup,4,2015-01-05,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,3.32,3,7,2019-01-14,0,16
+256,10039,51920,2,Administrative Assistant,Admin Offices,Brandon R. LeBlanc,1,2015-05-01,NULL,N-A-StillEmployed,Active,Website,Fully Meets,5,3,5,2019-01-15,0,2
+257,10095,63878,20,Production Technician II,Production       ,Michael Albert,22,2009-10-26,2015-04-08,maternity leave - did not return,Voluntarily Terminated,CareerBuilder,Fully Meets,4.68,4,0,2015-04-02,0,20
+258,10027,60656,20,Production Technician II,Production       ,Elijiah Gray,16,2014-09-29,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,4.3,3,0,2019-01-28,0,4
+259,10291,72992,21,Sales Manager,Sales,Debra Houlihan,15,2014-05-18,NULL,N-A-StillEmployed,Active,Diversity Job Fair,Needs Improvement,2.4,4,0,2019-01-16,2,16
+260,10153,55000,2,Administrative Assistant,Admin Offices,Brandon R. LeBlanc,1,2011-09-26,2013-09-25,career change,Voluntarily Terminated,Diversity Job Fair,Fully Meets,3.8,4,4,2013-08-15,0,17
+261,10157,58939,19,Production Technician I,Production       ,Ketsia Liebig,19,2013-11-11,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,3.73,3,0,2019-01-24,0,16
+262,10119,66593,14,IT Support,IT-IS,Eric Dougall,6,2011-06-10,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.3,3,5,2019-02-08,0,19
+263,10180,87565,28,Sr. Network Engineer,IT-IS,Peter Monroe,7,2016-06-30,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.27,4,5,2019-01-14,0,13
+264,10302,64021,19,Production Technician I,Production       ,Brannon Miller,12,2012-02-20,NULL,N-A-StillEmployed,Active,Indeed,PIP,2.4,2,1,2019-02-25,6,20
+265,10090,65714,18,Production Manager,Production       ,Janet King,2,2012-10-02,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.83,5,0,2019-02-14,0,15
+266,10030,62425,19,Production Technician I,Production       ,David Stanley,14,2013-05-13,2015-06-29,unhappy,Voluntarily Terminated,LinkedIn,Exceeds,4.1,4,0,2015-03-02,0,16
+267,10278,47961,19,Production Technician I,Production       ,Kissy Sullivan,20,2011-01-10,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,4.1,4,0,2019-02-07,0,9
+268,10307,58273,3,Area Sales Manager,Sales,Lynn Daneault,21,2014-05-12,NULL,N-A-StillEmployed,Active,Website,PIP,1.81,2,0,2019-01-17,3,5
+269,10147,63003,1,Accountant I,Admin Offices,Brandon R. LeBlanc,1,2014-09-29,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.9,5,5,2019-01-18,0,9
+270,10266,61355,19,Production Technician I,Production       ,Kelley Spirea,18,2014-02-17,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.7,3,0,2019-01-11,0,4
+271,10241,60120,3,Area Sales Manager,Sales,John Smith,17,2010-09-27,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.1,4,0,2019-01-31,0,18
+272,10158,63682,18,Production Manager,Production       ,Janet King,2,2009-01-08,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.73,4,0,2019-01-24,0,12
+273,10117,63025,19,Production Technician I,Production       ,Michael Albert,22,2015-01-05,NULL,N-A-StillEmployed,Active,Google Search,Fully Meets,4.36,5,0,2019-01-24,0,10
+274,10209,59238,19,Production Technician I,Production       ,Elijiah Gray,16,2012-05-14,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.4,5,0,2019-01-31,0,13
+275,10024,92989,24,Software Engineer,Software Engineering,Alex Sweetwater,10,2014-07-07,NULL,N-A-StillEmployed,Active,LinkedIn,Exceeds,4.5,5,5,2019-02-18,0,1
+276,10173,90100,4,BI Developer,IT-IS,Brian Champaigne,13,2017-04-20,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.4,3,6,2019-01-02,0,14
+277,10221,60754,19,Production Technician I,Production       ,Webster Butler,39,2009-04-27,2013-04-01,Another position,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.5,5,0,2012-02-15,0,11
+278,10146,72202,20,Production Technician II,Production       ,Elijiah Gray,16,2011-05-16,2017-07-08,Another position,Voluntarily Terminated,Google Search,Fully Meets,3.93,3,0,2017-04-18,0,3
+279,10161,58370,3,Area Sales Manager,Sales,Lynn Daneault,21,2014-09-29,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.69,3,0,2019-01-28,0,18
+280,10141,48413,19,Production Technician I,Production       ,Amy Dunn,11,2011-07-05,2016-09-05,return to school,Voluntarily Terminated,Indeed,Fully Meets,3.98,4,0,2016-03-02,0,1
+281,10268,67176,20,Production Technician II,Production       ,Webster Butler,39,2007-06-25,2010-08-30,military,Voluntarily Terminated,Other,Fully Meets,4.1,4,0,2010-07-14,0,15
+282,10123,56339,19,Production Technician I,Production       ,Brannon Miller,12,2013-02-18,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,4.21,5,0,2019-01-14,0,4
+283,10013,64397,3,Area Sales Manager,Sales,Lynn Daneault,21,2006-01-09,NULL,N-A-StillEmployed,Active,Indeed,Exceeds,4.1,3,0,2019-01-04,0,6
+284,10287,63025,19,Production Technician I,Production       ,David Stanley,14,2014-02-17,NULL,N-A-StillEmployed,Active,LinkedIn,Needs Improvement,2.44,5,0,2019-02-11,4,18
+285,10044,75281,15,Network Engineer,IT-IS,Peter Monroe,7,2015-01-05,2016-02-12,medical issues,Voluntarily Terminated,CareerBuilder,Fully Meets,5,3,5,2015-04-15,0,11
+286,10102,100416,24,Software Engineer,Software Engineering,Alex Sweetwater,10,2013-02-18,2018-04-15,medical issues,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.6,3,4,2017-02-12,0,9
+287,10270,74813,20,Production Technician II,Production       ,Amy Dunn,11,2011-01-10,2014-07-02,unhappy,Voluntarily Terminated,LinkedIn,Fully Meets,4.4,3,0,2014-01-05,0,5
+288,10045,76029,15,Network Engineer,IT-IS,Peter Monroe,7,2015-03-30,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,5,4,7,2019-01-14,0,8
+289,10205,57859,3,Area Sales Manager,Sales,John Smith,17,2011-07-05,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,2.81,3,0,2019-01-17,0,16
+290,10014,58523,19,Production Technician I,Production       ,Kissy Sullivan,20,2012-08-13,2016-02-05,maternity leave - did not return,Voluntarily Terminated,LinkedIn,Exceeds,4.5,5,0,2016-02-01,0,15
+291,10144,88976,17,Production Manager,Production       ,Janet King,2,2011-08-01,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,3.93,3,0,2019-02-27,0,19
+292,10253,55875,3,Area Sales Manager,Sales,John Smith,17,2012-03-05,NULL,N-A-StillEmployed,Active,Website,Fully Meets,4.5,4,0,2019-01-18,0,11
+293,10118,113999,8,Database Administrator,IT-IS,Simon Roup,4,2015-02-16,2017-02-22,"no-call, no-show",Terminated for Cause,Employee Referral,Fully Meets,4.33,3,7,2017-02-15,0,9
+294,10022,49773,19,Production Technician I,Production       ,Kelley Spirea,18,2011-09-26,2016-02-08,gross misconduct,Terminated for Cause,Google Search,Exceeds,4.3,5,0,2015-02-01,0,18
+295,10183,62068,19,Production Technician I,Production       ,Michael Albert,22,2015-07-05,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.21,3,0,2019-01-29,0,7
+296,10190,66541,20,Production Technician II,Production       ,Ketsia Liebig,19,2014-08-18,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,3.11,5,0,2019-02-12,0,4
+297,10274,80512,18,Production Manager,Production       ,Janet King,2,2011-09-26,2012-01-02,Another position,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.5,3,0,2012-01-02,0,5
+298,10293,50274,19,Production Technician I,Production       ,Elijiah Gray,16,2012-08-13,2015-09-01,career change,Voluntarily Terminated,CareerBuilder,Needs Improvement,2.5,3,0,2014-09-05,6,13
+299,10172,84903,22,Senior BI Developer,IT-IS,Brian Champaigne,13,2017-02-15,NULL,N-A-StillEmployed,Active,Indeed,Fully Meets,3.42,4,7,2019-01-04,0,17
+300,10127,107226,28,Sr. Network Engineer,IT-IS,Peter Monroe,7,2015-03-30,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,4.2,4,8,2019-02-05,0,7
+301,10072,58371,19,Production Technician I,Production       ,Webster Butler,39,2011-01-10,2014-05-15,hours,Voluntarily Terminated,LinkedIn,Fully Meets,5,5,0,2014-05-15,0,11
+302,10048,55140,19,Production Technician I,Production       ,Amy Dunn,11,2011-05-16,2015-09-07,unhappy,Voluntarily Terminated,Website,Fully Meets,5,3,0,2015-02-15,0,7
+303,10204,58062,19,Production Technician I,Production       ,Ketsia Liebig,19,2011-01-10,2012-05-14,Another position,Voluntarily Terminated,Google Search,Fully Meets,3.6,5,0,2011-02-06,0,9
+304,10264,59728,19,Production Technician I,Production       ,Ketsia Liebig,19,2012-01-09,2015-06-27,relocation out of area,Voluntarily Terminated,Diversity Job Fair,Fully Meets,4.3,4,0,2014-06-02,0,16
+305,10033,70507,20,Production Technician II,Production       ,Brannon Miller,12,2013-01-07,2016-02-21,retiring,Voluntarily Terminated,LinkedIn,Exceeds,5,3,0,2016-01-19,0,7
+306,10174,60446,20,Production Technician II,Production       ,David Stanley,14,2014-09-29,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,3.4,4,0,2019-02-21,0,14
+307,10135,65893,20,Production Technician II,Production       ,Kissy Sullivan,20,2014-07-07,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.07,4,0,2019-02-28,0,13
+308,10301,48513,19,Production Technician I,Production       ,Brannon Miller,12,2008-09-02,2015-09-29,Another position,Voluntarily Terminated,Google Search,PIP,3.2,2,0,2015-09-02,5,4
+309,10010,220450,6,CIO,IT-IS,Janet King,2,2010-04-10,NULL,N-A-StillEmployed,Active,Employee Referral,Exceeds,4.6,5,6,2019-02-21,0,16
+310,10043,89292,9,Data Analyst,IT-IS,Simon Roup,4,2015-03-30,NULL,N-A-StillEmployed,Active,Employee Referral,Fully Meets,5,3,5,2019-02-01,0,11
+311,10271,45046,19,Production Technician I,Production       ,David Stanley,14,2014-09-29,NULL,N-A-StillEmployed,Active,LinkedIn,Fully Meets,4.5,5,0,2019-01-30,0,2
