@@ -1,0 +1,7 @@
+Department,Total_Terminations,Avg_Tenure_Months_Left_Employees,Avg_Tenure_Months_Active_Employees,Primary_Reason_For_Leaving
+Production,83,44.6,68.3,"Another position"
+IT-IS,10,20.6,51.5,performance
+Sales,5,30.8,71.9,"Another position"
+"Software Engineering",4,46.3,68.9,attendance
+"Admin Offices",2,12.0,70.0,"no-call, no-show"
+"Executive Office",0,NULL,79.0,NULL

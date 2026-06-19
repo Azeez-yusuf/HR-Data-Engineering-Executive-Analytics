@@ -1,0 +1,35 @@
+Department,Sex,RaceDescript,Headcount,Average_Salary,Min_Salary,Max_Salary,Pay_Spread
+"Admin Offices",M,White,2,78024.50,63003,93046,30043
+"Admin Offices",F,White,2,75635.50,51920,99351,47431
+"Admin Offices",F,"Black or African American",4,68571.75,49920,106367,56447
+"Admin Offices",M,"Black or African American",1,64520.00,64520,64520,0
+"Executive Office",F,White,1,250000.00,250000,250000,0
+IT-IS,M,"Black or African American",9,124486.00,88527,178000,89473
+IT-IS,F,Asian,3,98170.00,81584,107226,25642
+IT-IS,F,White,13,94490.08,50750,220450,169700
+IT-IS,F,"Black or African American",6,93027.50,51777,150290,98513
+IT-IS,M,White,16,86963.94,50178,140920,90742
+IT-IS,M,Asian,3,86796.33,84903,87921,3018
+Production,M,Hispanic,1,83667.00,83667,83667,0
+Production,M,"Black or African American",15,65377.60,46654,170500,123846
+Production,M,Asian,8,65376.13,53250,83082,29832
+Production,F,"American Indian or Alaska Native",2,63436.50,60724,66149,5425
+Production,F,"Black or African American",30,60011.30,47434,80512,33078
+Production,F,White,77,59876.10,45069,77915,32846
+Production,M,White,57,58171.49,45115,88976,43861
+Production,F,Asian,13,57511.08,45046,74226,29180
+Production,M,"Two or more races",2,57501.50,56294,58709,2415
+Production,F,"Two or more races",4,56714.25,47961,68407,20446
+Sales,F,White,8,80583.25,59231,180000,120769
+Sales,M,"American Indian or Alaska Native",1,70545.00,70545,70545,0
+Sales,M,"Black or African American",5,69771.60,66808,72992,6184
+Sales,M,"Two or more races",3,65522.00,61568,71707,10139
+Sales,M,White,6,64800.83,58273,70187,11914
+Sales,F,"Black or African American",5,62806.00,58370,74326,15956
+Sales,F,"Two or more races",2,60777.00,57859,63695,5836
+Sales,M,Asian,1,55875.00,55875,55875,0
+"Software Engineering",F,Asian,1,105688.00,105688,105688,0
+"Software Engineering",F,"Black or African American",2,100239.50,99280,101199,1919
+"Software Engineering",M,"Black or African American",3,97588.67,83363,108987,25624
+"Software Engineering",F,White,3,91756.67,86214,95660,9446
+"Software Engineering",M,White,2,85340.50,77692,92989,15297

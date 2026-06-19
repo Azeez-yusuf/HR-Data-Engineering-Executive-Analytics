@@ -1,0 +1,21 @@
+Department,ManagerName,Team_Size,Avg_Absences_Per_Employee,Avg_Days_Late_Last_30,Avg_Employee_Satisfaction,High_Burnout_Risk_Count
+Production,"Brannon Miller",22,9.2,1.0,3.41,11
+Production,"Kelley Spirea",22,11.4,0.2,3.82,7
+Production,"Janet King",15,9.0,0.4,3.47,6
+Production,"Kissy Sullivan",22,10.6,0.5,3.91,6
+Production,"Amy Dunn",21,9.5,0.7,3.81,4
+IT-IS,"Simon Roup",17,9.5,0.0,3.82,4
+Sales,"John Smith",14,13.4,0.6,3.93,4
+Production,"David Stanley",21,10.4,0.2,3.95,4
+IT-IS,"Brian Champaigne",8,12.5,0.0,4.00,3
+Production,"Webster Butler",21,11.9,0.3,4.05,3
+IT-IS,"Peter Monroe",14,10.6,0.2,3.93,2
+Production,"Elijiah Gray",22,9.1,0.5,3.95,2
+Production,"Michael Albert",22,10.9,0.6,4.05,2
+Sales,"Lynn Daneault",13,9.7,0.7,4.08,2
+Production,"Ketsia Liebig",21,9.1,0.2,4.10,2
+IT-IS,"Eric Dougall",4,9.0,0.0,3.50,1
+"Admin Offices","Brandon R. LeBlanc",7,7.9,0.0,3.57,1
+"Software Engineering","Alex Sweetwater",9,9.8,0.4,4.22,1
+IT-IS,"Jennifer Zamora",6,10.2,0.7,4.50,1
+Sales,"Debra Houlihan",3,8.7,0.7,4.33,0
