@@ -294,6 +294,116 @@ Additionally, the dataset records a total of 379 active special projects, highli
 4. The leadership data suggests overall workforce engagement remains healthy across most teams, but employee satisfaction varies significantly by manager. The highest operational risk sits with Brannon Miller, whose large team records the lowest satisfaction score and the highest concentration of underperforming employees. Attendance risk is most evident under John Smith, whose team reports the highest absenteeism levels. Conversely, Ketsia Liebig, Alex Sweetwater, and Jennifer Zamora demonstrate the strongest leadership outcomes, combining high satisfaction, solid engagement, and low underperformance. The broader organizational pattern indicates employees remain productive and engaged, but declining satisfaction in selected teams could become a future attrition driver if leadership effectiveness and employee experience are not addressed.
 
 
-5. 
+   ## STRATEGIC FINDINGS AND RECOMMENDATIONS
 
+-- ----------------------------------------------------------------------------------------------------------------------------------
+-- ----------------------------------------------------------------------------------------------------------------------------------
+A. 
+
+/*
+-- The "Flight Risk" Red Line: This is to Identify the peak tenure window (in months) where employees voluntarily resign, 
+and evaluate their average salary and performance footprint during that critical window.
+
+-- Query 1: Voluntary Attrition Tenure Distribution & Compensation Footprint
+*/
+
+```sql
+
+SELECT 
+    CASE 
+        WHEN TIMESTAMPDIFF(MONTH, DateofHire, DateofTermination) <= 12 THEN '0-1 Year'
+        WHEN TIMESTAMPDIFF(MONTH, DateofHire, DateofTermination) <= 24 THEN '1-2 Years'
+        WHEN TIMESTAMPDIFF(MONTH, DateofHire, DateofTermination) <= 36 THEN '2-3 Years'
+        WHEN TIMESTAMPDIFF(MONTH, DateofHire, DateofTermination) <= 48 THEN '3-4 Years'
+        ELSE '4+ Years'
+    END AS Tenure_Group_At_Departure,
+    COUNT(*) AS Total_Voluntary_Resignations,
+    ROUND(AVG(Salary), 2) AS Avg_Salary_At_Departure,
+    ROUND(AVG(EngagementSurvey), 2) AS Avg_Engagement_Score,
+    ROUND(AVG(CASE 
+        WHEN PerformanceScore = 'Exceeds' THEN 4
+        WHEN PerformanceScore = 'Fully Meets' THEN 3
+        WHEN PerformanceScore = 'Needs Improvement' THEN 2
+        WHEN PerformanceScore = 'PIP' THEN 1
+    END), 2) AS Avg_Performance_Index
+FROM employment_details
+WHERE EmploymentStatus = 'Voluntarily Terminated'
+GROUP BY 
+    CASE 
+        WHEN TIMESTAMPDIFF(MONTH, DateofHire, DateofTermination) <= 12 THEN '0-1 Year'
+        WHEN TIMESTAMPDIFF(MONTH, DateofHire, DateofTermination) <= 24 THEN '1-2 Years'
+        WHEN TIMESTAMPDIFF(MONTH, DateofHire, DateofTermination) <= 36 THEN '2-3 Years'
+        WHEN TIMESTAMPDIFF(MONTH, DateofHire, DateofTermination) <= 48 THEN '3-4 Years'
+        ELSE '4+ Years'
+    END
+ORDER BY Total_Voluntary_Resignations DESC;
+
+```
+
+
+##### 🚨Crisis 1: The 4+ Years "Loyalty Drain" (37.5% of all exits)
+The Data: $33$ out of $88$ total resignations come from employees who have been with the company for over 4 years. They have healthy engagement ($4.19$) and reliable performance ($2.91$). However, they have the lowest average salary at departure ($\$57,671.52$).
+The Interpretation for Stakeholders: These are our loyal, long-term corporate citizens. They perform well and are engaged, but they are leaving because they are severely underpaid. This is a classic textbook case of Salary Compression—where market wages for new hires rise quickly, but internal raises for existing employees stagnate. They are eventually forced to leave to get the market rate they deserve.
+##### 🚨 Crisis 2: The 3-4 Years "Star Performer Exit" (19.3% of all exits)
+The Data: $17$ employees resigned during their 3rd to 4th year. This group represents our absolute rockstars: they have the highest performance index ($3.18$), the highest engagement score ($4.40$), and the highest average salary ($\$71,066.06$).
+The Interpretation for Stakeholders: Money is not the primary reason these individuals are leaving; we are paying them premium rates. Because they are highly engaged and high-performing, they are highly marketable. They are likely being headhunted by competitors. They are leaving because they have hit a "career ceiling" with us and are exiting to find higher-level leadership or growth opportunities that we aren't providing internally.
+##### ⚠️ The 1-2 Years "Reality Check" Dip (18.2% of all exits)
+The Data: After a stable first year (only $9$ resignations), departures nearly double to $16$ in the 1–2 year window. During this phase, engagement drops to $4.08$ and performance dips to its lowest point ($2.88$).
+The Interpretation for Stakeholders: This represents an early-stage friction point. After the "honeymoon phase" of the first year wears off, employees experience a dip in enthusiasm and performance. This usually points to a lack of structured mid-tenure support or a mismatch between what was promised during recruitment and the actual day-to-day job reality.
+
+
+#### 3 clear action items to management based on this data:
+1. Execute a "Loyalty Equity" Pay Adjustment: Immediately audit the compensation of all current employees with over 3 years of tenure. Bringing underpaid veterans up to current market rates will instantly neutralize the largest exit group ($37.5\%$).
+2. Introduce Fast-Track Growth Paths for High Performers: Implement a formal talent review for employees hitting their 2-to-3 year marks. Ensure our top performers (the 3-4 year group) are given clear internal promotional tracks, executive mentorship, or new challenges so they don’t look elsewhere for growth.
+3. Launch a Year-2 "Re-boarding" Program: Address the 1-2 year retention leak by introducing a milestone check-in at the 12-month mark. Use this to realign expectations, address disengagement, and provide fresh training to rebuild their performance momentum.
+-- ---------------------------------------------------------------------------------------------------------------------------------------
+
+
+-- ------------------------------------------------------------------------------------------------------------------------------------
+B. 
+
+/*
+The Absenteeism & Burnout Correlation: Objective: Map out whether a high frequency of absences and lateness correlates directly with
+ low satisfaction scores, and isolate which departments or managers are driving these burnout metrics.
+ 
+ */
+ 
+ -- Query 2: Absenteeism, Lateness, and Dissatisfaction Hotspots
+
+ ``sql
+ 
+SELECT 
+    Department,
+    ManagerName,
+    COUNT(*) AS Team_Size,
+    ROUND(AVG(Absences), 1) AS Avg_Absences_Per_Employee,
+    ROUND(AVG(DaysLateLast30), 1) AS Avg_Days_Late_Last_30,
+    ROUND(AVG(EmpSatisfaction), 2) AS Avg_Employee_Satisfaction,
+    -- Composite Risk Flag: High absences/lateness paired with satisfaction below 3.5
+    SUM(CASE WHEN (Absences > 10 OR DaysLateLast30 > 2) AND EmpSatisfaction < 4 THEN 1 ELSE 0 END) AS High_Burnout_Risk_Count
+FROM employment_details
+GROUP BY Department, ManagerName
+HAVING Team_Size >= 3
+ORDER BY High_Burnout_Risk_Count DESC, Avg_Employee_Satisfaction ASC;
+
+```
+
+#### Executive Summary: The Burnout & Attendance Bottlenecks
+A high-level view reveals that burnout isn’t randomly scattered—it is highly concentrated. In fact, Production and IT-IS account for 88% of all high-burnout cases in the company (58 out of 66 total employees at risk).
+##### 🚨 The "Red Zone" Teams (Burnout Rate > 30%)
+When we look at the percentage of a team at risk, three managers require immediate operational intervention:
+1. Brannon Miller (Production): Exactly 50% of this team is at high risk of burnout ($11$ out of $22$ employees). This team also exhibits a high friction rate with an average of 1.0 day late over the last 30 days. Their satisfaction score is the lowest in Production ($3.41$).
+2. Janet King (Production): 40% of the team is at high risk ($6$ out of $15$ employees). They also suffer from low satisfaction ($3.47$).
+3. Brian Champaigne (IT-IS): 37.5% of this team is at high risk ($3$ out of $8$ employees). Alarmingly, this team has an incredibly high absenteeism rate, averaging 12.5 absences per employee.
+
+#### 🔍 Key Insight: The Lateness vs. Absence Behavioral Signal
+The data reveals a fascinating trend in how burnout manifests across different job functions:
+1. The "Check-Out" Pattern (Sales & IT): In Sales and IT-IS, burned-out employees simply stop showing up as often. John Smith’s Sales team averages a massive 13.4 absences per employee. This indicates that in desk-bound or client-facing roles, burnout correlates with checking out completely (absences).
+2. The "Tardy" Pattern (Production): In Production, where shifts are rigid, employees try to show up, but they arrive late. Brannon Miller's team leads the company in lateness. This indicates operational fatigue—people are exhausted, making it physically harder to start the shift on time.
+
+
+####💡 Strategic Recommendations for Leadership
+1. Investigate Leadership & Workloads under Brannon Miller & Janet King: Production has many managers with healthy teams (e.g., Ketsia Liebig and Michael Albert have under 10% burnout rates). Because some Production teams are thriving while Miller's and King's are struggling, this is likely a localized shift-scheduling, workload distribution, or management style issue rather than a company-wide problem.
+2. Deploy "Early Warning" HR Interventions based on Lateness/Absences: HR should build an automated alert. If a team’s average monthly lateness crosses $0.5$ days, or individual absences cross $11$ days, it should trigger an automatic wellness and workload audit. The data proves these are the behavioral footprints of a burning-out team.
+3. Cross-Train High-Absence Teams: Teams like John Smith's (Sales) and Brian Champaigne's (IT) are running thin due to double-digit employee absences. Leadership must ensure there is adequate coverage so that one employee's absence doesn't cause a domino effect of burnout on the remaining team members.
 
