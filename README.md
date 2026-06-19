@@ -276,7 +276,7 @@ ORDER BY emp.Department, Average_Salary DESC;
 
 -- ----------------------------------------------------------------------------------------------------------------------
 ## Results/Findings
-##### Data Insight Generation for Churn Analysis
+##### Data Insight Generation for The Analysis
 
 1. The dataset reflects a historical workforce headcount of 311 employees, comprising 207 active employees and 104 terminated employees. This represents a cumulative turnover rate of 33.44%, indicating that approximately one-third of the workforce has exited the organization over the period covered by the dataset.
 
