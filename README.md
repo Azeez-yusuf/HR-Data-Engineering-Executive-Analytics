@@ -370,7 +370,7 @@ The Absenteeism & Burnout Correlation: Objective: Map out whether a high frequen
  
  -- Query 2: Absenteeism, Lateness, and Dissatisfaction Hotspots
 
- ``sql
+```sql
  
 SELECT 
     Department,
